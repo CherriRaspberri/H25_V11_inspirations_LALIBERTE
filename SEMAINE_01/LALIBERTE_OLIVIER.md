@@ -1,6 +1,6 @@
 # OLIVIER_LALIBERTE
 
-
+![img_presentation_01](images/DSC_0084.JPG)
 
 
 ## Intérêts dans le multimédia
