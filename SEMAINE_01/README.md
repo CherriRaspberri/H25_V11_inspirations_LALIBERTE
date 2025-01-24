@@ -1,4 +1,4 @@
-Exercices semaine 01 :
+# Exercices semaine 01
 
 - Autodescription
 - 
