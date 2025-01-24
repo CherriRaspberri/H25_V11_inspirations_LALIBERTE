@@ -1,6 +1,6 @@
 # OLIVIER_LALIBERTE
 
-img goes here
+
 
 
 ## Intérêts dans le multimédia
