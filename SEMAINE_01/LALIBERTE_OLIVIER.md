@@ -7,7 +7,6 @@
 ## Intérêts dans le multimédia
 
 J'adore le multimédia depuis tout petit. 
-
 J'ai utilisé beaucoup de médiums différents pour faire de l'art, des projets, ou pour le travail.
 
 Voici une liste de mes médiums préférés : 
