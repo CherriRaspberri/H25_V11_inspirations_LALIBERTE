@@ -1,6 +1,8 @@
 # Sortie au Centre Des Sciences de Montréal (31/01/2025)
 
-IMG COOL DE L'EVENT
+<p align="center">
+  <img src="images/image_titre.jpg" alt="img titre">  
+</p>
 
 ---
 ## Exposition : Le Banquet
