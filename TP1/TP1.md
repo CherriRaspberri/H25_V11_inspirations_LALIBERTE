@@ -29,7 +29,7 @@ La salle est peinte en noir, et quelques chaises sont placées de chaque côté 
 
 L'oeuvre est brève et directe. En entrant dans la salle, je me suis assis et j'ai écouté la vidéo montrée. Facile à comprendre, l'oeuvre fut très plaisante et informative.
 
-| ![projecteur](images/oeuvre_projecteur.jpg) | ![boutons](images/oeuvre_boutons.jpg) |
+|![projecteur](images/oeuvre_projecteur.jpg)|![boutons](images/oeuvre_boutons.jpg)|
 
 J'ai beaucoup aimé l'ambiance calme et tamisée lorsque l'on entre dans la pièce. J'ai pu admirer l'oeuvre sans être dérangé par le bruit ambiant autour de moi, grâce aux murs qui séparent l'ouvre du reste de l'exposition. De plus, la vidéo explicative fut vraiment intéressante. Les dispositifs installés étaient clairs et faciles à utiliser. 
 
