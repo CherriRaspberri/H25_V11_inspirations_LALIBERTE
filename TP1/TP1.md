@@ -49,5 +49,9 @@ Expérience | Détails
 ![interaction](images/oeuvre_interaction.jpg)|![details](images/oeuvre_details.jpg)
 
 ---
-Références : 
-- 
+# Références
+
+<p align="center">
+  <img src="images/references.jpg" alt="References">  
+</p>
+
