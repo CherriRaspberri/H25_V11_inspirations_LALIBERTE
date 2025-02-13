@@ -42,7 +42,10 @@ J'ai beaucoup aimé l'ambiance calme et tamisée lorsque l'on entre dans la piè
 
 Selon moi, la boîte contentant le projecteur en plein milieu de la salle aurait pu être installée au plafond ou au mur, avec un dispositif à portée de main accessible sur le mur. Le fait qu'elle soit par terre au milieu de la salle empêche plus de personnes à venir voir l'oeuvre, dû à un manque d'espace. 
 
-IMG
+Expérience | Détails
+:-------------------------:|:-------------------------:
+![interaction](images/oeuvre_interaction.jpg)|![details](images/oeuvre_details.jpg)
+
 ---
 Références : 
 - 
