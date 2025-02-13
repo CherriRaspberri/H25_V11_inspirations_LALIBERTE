@@ -20,7 +20,7 @@ L'exposition se tient au *Centre des Sciences de Montréal*, [situé dans le Vie
 ---
 ## Oeuvre hoisie : T'EN SOUVIENS-TU?
 
-<img src="images/oeuvre_ensemble.jpg">
+<img src="images/oeuvre_ensemble.jpg" alt="Oeuvre ensemble">
 
 ---
 *T'EN SOUVIENS-TU* est une projection historique dans une petite salle, un peu séparée de l'exposition. L'oeuvre présente une vidéo montrant des images de banquets historiques, expliquant comment les banquets étaient perçus au fil des années.
