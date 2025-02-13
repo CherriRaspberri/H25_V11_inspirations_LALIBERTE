@@ -6,7 +6,6 @@ IMG COOL DE L'EVENT
 ## Exposition : Le Banquet
 
 IMG BANQUET
-
 ---
 Le Banquet est une exposition scientifique basée sur la nourriture qui mélange plusieurs bornes et activités interactives pour tous âges. 
 
