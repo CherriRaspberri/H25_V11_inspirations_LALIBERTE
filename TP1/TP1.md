@@ -13,6 +13,8 @@ L'exposition se tient au Centre des Sciences de Montréal, [situé dans le Vieux
 
 Le Banquet offre plusieurs activités qui, au fil de l'exposition, expliquent et démontrent la science derrière la cuisine. Que se soit en montrant des vidéos informatives sur les différentes techniques de coupe, en faisant sentir à l'utlisateur différentes odeurs, ou en faisant vivre un banquet fictif, cette exposition arrive à amuser tout en informant. 
 
+Date de visite : 31 Janvier 2025
+
 ---
 ## Oeuvre hoisie : T'EN SOUVIENS-TU?
 
