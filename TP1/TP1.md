@@ -32,7 +32,7 @@ L'exposition se tient au *Centre des Sciences de Montréal*, [situé dans le Vie
 ---
 *T'EN SOUVIENS-TU* est une projection historique dans une petite salle, un peu séparée de l'exposition. L'oeuvre présente une vidéo montrant des images de banquets historiques, expliquant comment les banquets étaient perçus au fil des années.
 
-### Composition phyysique
+### Composition physique
 La salle est peinte en noir, et quelques chaises sont placées de chaque côté de l'oeuvre, avec un projecteur en son centre. Le projecteur affiche une vidéo explicative sur le mur du centre. Pour partir la vidéo, il faut appuyer sur un bouton sur la boîte qui contient le projecteur.
 
 L'oeuvre est brève et directe. En entrant dans la salle, je me suis assis et j'ai écouté la vidéo montrée. Facile à comprendre, l'oeuvre fut très plaisante et informative.
