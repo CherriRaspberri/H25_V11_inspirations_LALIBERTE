@@ -65,7 +65,5 @@ Expérience | Détails
 ---
 # Références
 
-<p align="center">
-  <img src="images/references.jpg" alt="References">  
-</p>
-
+:-------------------------:|:-------------------------:
+![reference_01](images/references_01.jpg)|![reference_02](images/references_02.jpg)
