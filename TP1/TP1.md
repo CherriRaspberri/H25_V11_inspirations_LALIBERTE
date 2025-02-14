@@ -35,9 +35,15 @@ L'exposition se tient au *Centre des Sciences de Montréal*, [situé dans le Vie
 ### Composition physique
 La salle est peinte en noir, et quelques chaises sont placées de chaque côté de l'oeuvre, avec un projecteur en son centre. Le projecteur affiche une vidéo explicative sur le mur du centre. Pour partir la vidéo, il faut appuyer sur un bouton sur la boîte qui contient le projecteur.
 
-PAR L'ARTISTE
+**Composantes fournies par l'artiste :**
+- Vidéo explicative
+- Ordinateur
 
-PAR LA VENUE
+**Composantes fournies par l'exposant**
+- Projecteur
+- Boîte pour projecteur
+- Chaises
+- Câbles d'alimentation
 
 
 
