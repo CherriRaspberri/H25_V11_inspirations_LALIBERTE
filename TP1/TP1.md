@@ -66,4 +66,4 @@ Expérience | Détails
 # Références
 _ | _
 :-------------------------:|:-------------------------:
-<img src="images/references_01.jpg" alt="drawing" width="350"/> | ![reference_02](images/references_02.jpg)
+<img src="images/references_01.jpg" alt="drawing" width="350"/> | <img src="images/references_02.jpg" alt="drawing" width="350"/>
