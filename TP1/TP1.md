@@ -64,6 +64,6 @@ Expérience | Détails
 
 ---
 # Références
-
+_ | _
 :-------------------------:|:-------------------------:
 ![reference_01](images/references_01.jpg)|![reference_02](images/references_02.jpg)
