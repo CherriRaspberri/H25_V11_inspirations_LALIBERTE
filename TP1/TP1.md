@@ -23,7 +23,7 @@ L'exposition se tient au *Centre des Sciences de Montréal*, [situé dans le Vie
 - Date personelle de visite : 31 Janvier 2025
 
 ---
-## Oeuvre hoisie : T'EN SOUVIENS-TU?
+## Oeuvre choisie : T'EN SOUVIENS-TU?
 
 <p align="center">
   <img src="images/oeuvre_ensemble.jpg" alt="Oeuvre ensemble">  
