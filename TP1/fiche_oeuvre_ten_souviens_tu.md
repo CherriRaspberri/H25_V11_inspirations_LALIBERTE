@@ -3,14 +3,14 @@
 <p align="center">
   <img src="images/image_titre.jpg" alt="img titre">  
 </p>
-
+*Efra et Ced, OL, 31/01*
 ---
 ## Exposition : Le Banquet
 
 <p align="center">
   <img src="images/exposition_ensemble.jpg" alt="Expo ensemble">  
 </p>
-
+*Bannière d'ouverture, OL, 31/01*
 ---
 *Le Banquet* est une exposition scientifique basée sur la nourriture qui mélange plusieurs bornes et activités interactives pour tous âges. 
 
@@ -28,7 +28,7 @@ L'exposition se tient au *Centre des Sciences de Montréal*, [situé dans le Vie
 <p align="center">
   <img src="images/oeuvre_ensemble.jpg" alt="Oeuvre ensemble">  
 </p>
-
+*Oeuvre, image d'ensemble, OL, 31/01*
 ---
 *T'EN SOUVIENS-TU* est une projection historique dans une petite salle, un peu séparée de l'exposition. L'oeuvre présente une vidéo montrant des images de banquets historiques, expliquant comment les banquets étaient perçus au fil des années.
 
@@ -51,6 +51,8 @@ Projecteur | Boutons
 :-------------------------:|:-------------------------:
 ![projecteur](images/oeuvre_projecteur.jpg)|![boutons](images/oeuvre_boutons.jpg)
 
+*Projecteur / boutons, OL, 31/01*
+
 ### Expérience personnelle
 L'oeuvre est brève et directe. En entrant dans la salle, je me suis assis et j'ai écouté la vidéo montrée. Facile à comprendre, l'oeuvre fut très plaisante et informative.
 
@@ -61,6 +63,8 @@ Selon moi, la boîte contentant le projecteur en plein milieu de la salle aurait
 Expérience | Détails
 :-------------------------:|:-------------------------:
 ![interaction](images/oeuvre_interaction.jpg)|![details](images/oeuvre_details.jpg)
+
+*Interaction / Détails, OL, 31/01*
 
 ---
 
