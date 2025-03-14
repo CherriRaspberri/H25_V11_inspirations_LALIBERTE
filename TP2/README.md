@@ -1,1 +1,1 @@
-Documentation TP2 : répositoires des dossiers et fichiers.
+Documentation TP2 : répositoire des dossiers et fichiers.
