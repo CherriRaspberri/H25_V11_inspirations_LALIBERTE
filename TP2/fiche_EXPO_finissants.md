@@ -1,12 +1,9 @@
 Fiche expo de tous les finissants :
 
-1. ef
-2. fewf
-3. srg
-4. rgdrg
-5. dgd
-6. rg
-7. dg
-8. fcxb
-9. d
-10. rg
+1. Prismatica
+2. CON DU8
+3. Luminatura
+4. Etheria
+5. Fuga
+6. Internature
+7. Arcadia
