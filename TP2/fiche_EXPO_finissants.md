@@ -80,11 +80,12 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 ### Description : 
 L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran de diffusion avec un projecteur et des hauts-parleurs.
 
-*img goes here*
-
 - Schéma d'installation :
 
-*schema goes here*
+<p align="center">
+  <img src="./images/autres_projets/condu8_plantation.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 [GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
