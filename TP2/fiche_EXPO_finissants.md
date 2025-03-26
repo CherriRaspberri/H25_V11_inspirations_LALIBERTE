@@ -169,7 +169,10 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
   <h2>Fuga</h2>
 </div>
 
-*expo img goes here*
+<p align="center">
+  <img src="./images/autres_projets/fuga_vue_ecrans.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 ### Installation :
 - Créé par : Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka, Yavuz-Selim Gucluer
