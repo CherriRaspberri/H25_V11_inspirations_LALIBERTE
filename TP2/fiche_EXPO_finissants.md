@@ -204,7 +204,10 @@ J'ai beaucoup apprécié le fait que l'on puisse contrôler chaque arbre, et que
   <h2>Internature</h2>
 </div>
 
-*expo img goes here*
+<p align="center">
+  <img src="./images/autres_projets/internature_vue_ensemble.jpg" width="600px">
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 ### Installation :
 - Créé par : Kenza El Harrif, Isaac Fafard, Delphine Grenier, Khaly Tia Sing, Sitmonternna Yi
