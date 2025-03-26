@@ -33,7 +33,8 @@
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="500px">  
+  <img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="500px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 ### Installation :
