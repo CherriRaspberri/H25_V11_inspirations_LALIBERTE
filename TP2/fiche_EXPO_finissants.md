@@ -30,7 +30,7 @@
   <h2>Prismatica</h2>
 </div>
 
-![prismatica](./images/autres_projets/)
+![prismatica](./images/autres_projets/prismatica_vue_ensemble.jpg)
 
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
