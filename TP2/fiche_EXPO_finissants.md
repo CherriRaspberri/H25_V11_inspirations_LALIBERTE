@@ -267,6 +267,6 @@ L'installation me rappelait des bons souvenirs, quand j'allais jouer aux arcades
 
 ---
 
-# Cours incontournables pour la réalisation des projets
+## Cours incontournables pour la réalisation des projets
 
-# Technique originale utilisée
+## Technique originale utilisée
