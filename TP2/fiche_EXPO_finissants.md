@@ -49,7 +49,7 @@
 ### Description : 
 L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
 
-- Schéma d'installation :
+- Schémas d'installation :
 
 ![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_tableau.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -151,7 +151,10 @@ L'oeuvre est composée d'une table blanche avec une image projetée directement 
 
 - Schéma d'installation :
 
-*schema goes here*
+<p align="center">
+  <img src="./images/etheria/etheria_plantation.jpg" width="300px"> <br>
+  <i>Schéma d'installation, fourni par l'équipe de Etheria</i>
+</p>
 
 [GitHub_Etheria](https://ethereal-creators.github.io/Etheria/#/)
 
