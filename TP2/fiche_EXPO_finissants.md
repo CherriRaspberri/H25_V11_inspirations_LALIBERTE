@@ -30,7 +30,7 @@
   <h2>Prismatica</h2>
 </div>
 
-*expo img goes here*
+![prismatica](./images/autres_projets/)
 
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
