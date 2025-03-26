@@ -55,7 +55,7 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 [GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 ### Ressenti personnel :
-CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia.
+CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia. <br>
 Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos cours. Le fait d'être sur un vélo dans un monde futuriste me fait beaucoup penser à TRON, je recommande fortement d'y jeter un coup d'oeil si on a aimé l'installation.
 
 ---
@@ -71,7 +71,7 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 [GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
 
 ### Ressenti personnel :
-Luminatura est parti d'un concept simple, mais a été très bien exécuté. 
+Luminatura est parti d'un concept simple, mais a été très bien exécuté. <br>
 J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il faut juste toucher une plaque pour activer l'installation. Les visuels étaient magnifiques, j'ai particulièrement aimé le mélange de couleurs créé par l'oeuvre en tant que tel.
 
 ---
