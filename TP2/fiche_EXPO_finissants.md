@@ -80,6 +80,11 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 ### Description : 
 L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran de diffusion avec un projecteur et des hauts-parleurs.
 
+<p align="center">
+  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="200px"> <br>
+  <i>Plaque tactile - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
 - Schéma d'installation :
 
 <p align="center">
