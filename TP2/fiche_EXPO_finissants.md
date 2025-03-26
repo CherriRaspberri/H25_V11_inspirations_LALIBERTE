@@ -120,7 +120,7 @@ L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs f
 
 <p align="center">
   <img src="./images/autres_projets/luminatura_plantation.jpg" width="300px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
 </p>
 
 [GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
@@ -137,7 +137,7 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 
 <p align="center">
   <img src="./images/etheria/etheria_final_vue_ensemble.jpg" width="600px"> <br>
-  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 ### Installation :
