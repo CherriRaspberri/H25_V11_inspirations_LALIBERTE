@@ -6,7 +6,7 @@
 # EXPOSITION FINISSANTS TIM 2025 - RESONANCE
 
 <div style="text-align: center">
-  <img src="./images">
+  <img src="./images/autres_projets/resonance_image_presentation.jpg">
 </div>
 
 ## Expositions 
