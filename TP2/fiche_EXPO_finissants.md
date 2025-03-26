@@ -68,7 +68,10 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
   <h2>CON DU8</h2>
 </div>
 
-*expo img goes here*
+<p align="center">
+  <img src="./images/autres_projets/condu8_vue_ensemble.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 ### Installation :
 - Créé par : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric, Jérémy Roy Coté
