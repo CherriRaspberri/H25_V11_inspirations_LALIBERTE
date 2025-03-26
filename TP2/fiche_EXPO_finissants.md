@@ -1,11 +1,3 @@
-Fiche expo de tous les finissants :
-
-Par projet :
-- titre
-- installation (outils, présenter comment ca marche, photos)
-- schéma de l'installation
-- ressenti personnel
-
 À la fin : 
 - cours incontournables pour réaliser le projet (3)
 - technique ou composante techno utilisée 
