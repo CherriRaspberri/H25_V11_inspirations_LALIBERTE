@@ -213,15 +213,19 @@ J'ai beaucoup apprécié le fait que l'on puisse contrôler chaque arbre, et que
 - Créé par : Kenza El Harrif, Isaac Fafard, Delphine Grenier, Khaly Tia Sing, Sitmonternna Yi
 - Année de diffusion : 2025
 
-![controle_prototype](./images/autres_projets/internature_prototype_controle.jpg) | ![controle_final](./images/autres_projets/internature_final_controle.jpg)
-:-------------------------:|:-------------------------:
-
 ### Description : 
 L'oeuvre est constituée d'un couloir de soie, avec une boule de contrôle en son centre. Quelques hauts-parleurs sont situés autour de l'installation, aisni que des projecteurs qui projettent des images sur la toile de l'oeuvre.
 
+![controle_prototype](./images/autres_projets/internature_prototype_controle.jpg) | ![controle_final](./images/autres_projets/internature_final_controle.jpg)
+:-------------------------:|:-------------------------:
+
 - Schéma d'installation :
 
-*schema goes here*
+![plantation_vue_haut](./images/autres_projets/internature_plantation_serre_vue_haut.jpg) | ![plantation_serre_3d](./images/autres_projets/internature_plantation_serre_3d.jpg)
+:-------------------------:|:-------------------------:
+
+![plantation_ensemble](./images/autres_projets/internature_plantation_sphere.jpg) | ![plantation_projecteur](./images/autres_projets/internature_plantation_studio.jpg)
+:-------------------------:|:-------------------------:
 
 [GitHub_Internature](https://tprangers.github.io/internature/#/)
 
