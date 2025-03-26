@@ -183,11 +183,14 @@ L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément tro
 
 - Schéma d'installation :
 
-![plantation_vue_face](./images/autres_projets/fuga_plantation_vue_face.png)
+<p align="center">
+  <img src="./images/autres_projets/fuga_plantation_vue_face.png" width="600px">
+</p>
 
 ![plantation_haut](./images/autres_projets/fuga_plantation_vue_haut.png) | ![plantation_cote](./images/autres_projets/fuga_plantation_vue_cote.png)
 :-------------------------:|:-------------------------:
- 
+
+*Schéma d'installation, fourni par l'équipe de Fuga*
 
 [GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
