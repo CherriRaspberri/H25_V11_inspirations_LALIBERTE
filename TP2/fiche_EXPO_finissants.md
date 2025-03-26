@@ -136,7 +136,7 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/etheria_vue_ensemble.jpg" width="600px"> <br>
+  <img src="./images/etheria/etheria_vue_ensemble.jpg" width="600px"> <br>
   <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
 </p>
 
