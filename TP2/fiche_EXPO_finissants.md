@@ -19,3 +19,9 @@ Par projet :
 À la fin : 
 - cours incontournables pour réaliser le projet (3)
 - technique ou composante techno utilisée 
+
+
+# EXPOSITION FINISSANTS TIM 2025 - RESONANCE
+
+*main event img goes here*
+
