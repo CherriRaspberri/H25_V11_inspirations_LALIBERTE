@@ -99,7 +99,10 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
   <h2>Luminatura</h2>
 </div>
 
-*expo img goes here*
+<p align="center">
+  <img src="./images/autres_projets/#" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 ### Installation :
 - Créé par : Audrey Dandurand, Justine Rousseau, Camila Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
