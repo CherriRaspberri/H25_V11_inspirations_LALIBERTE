@@ -219,6 +219,8 @@ L'oeuvre est constituée d'un couloir de soie, avec une boule de contrôle en so
 ![controle_prototype](./images/autres_projets/internature_prototype_controle.jpg) | ![controle_final](./images/autres_projets/internature_final_controle.jpg)
 :-------------------------:|:-------------------------:
 
+*Boule de contrôle - 25/02/2025 / 18/03/2025 - prises par Olivier Laliberté*
+
 - Schéma d'installation :
 
 ![plantation_vue_haut](./images/autres_projets/internature_plantation_serre_vue_haut.jpg) | ![plantation_serre_3d](./images/autres_projets/internature_plantation_serre_3d.jpg)
