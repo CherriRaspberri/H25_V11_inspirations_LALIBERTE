@@ -51,7 +51,7 @@ L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des cra
 
 - Schémas d'installation :
 
-![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_tableau.jpg)
+![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_projecteur](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_tableau](./images/autres_projets/prismatica_plantation_tableau.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
 *Schémas d'installation, fournis par l'équipe de prismatica*
@@ -147,7 +147,7 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Description : 
 L'oeuvre est composée d'une table blanche avec une image projetée directement dessus et des lumières en dessous, avec des pièces à jouer.
 
-![plantation_ensemble](./images/etheria/etheria_presentation.jpg) | ![plantation_ensemble](./images/etheria/etheria_final_piece_de_jeu.jpg)
+![presentation](./images/etheria/etheria_presentation.jpg) | ![piece_de_jeu](./images/etheria/etheria_final_piece_de_jeu.jpg)
 :-------------------------:|:-------------------------:
 
 - Schéma d'installation :
@@ -171,7 +171,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 
 <p align="center">
   <img src="./images/autres_projets/fuga_vue_ecrans.jpg" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+  <i>Vue des écrans - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 ### Installation :
@@ -183,7 +183,8 @@ L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément tro
 
 - Schéma d'installation :
 
-*schema goes here*
+![plantation_vue_face](./images/autres_projets/fuga_plantation_vue_face.jpg) | ![plantation_haut](./images/autres_projets/fuga_plantation_vue_haut.jpg) | ![plantation_cote](./images/autres_projets/fuga_plantation_vue_cote.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 
 [GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
