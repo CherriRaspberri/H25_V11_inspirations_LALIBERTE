@@ -83,7 +83,7 @@ L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran
 - Schéma d'installation :
 
 <p align="center">
-  <img src="./images/autres_projets/condu8_plantation.webp" width="600px"> <br>
+  <img src="./images/autres_projets/condu8_plantation.webp" width="300px"> <br>
   <i>Schéma d'installation, fourni par l'équipe de CON DU8</i>
 </p>
 
