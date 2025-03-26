@@ -183,7 +183,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 ### Description : 
 L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément trois arbres qui grandissent et s'en vont, ainsi que 3 panneaux de contrôle différents, avec des hauts-parleurs.
 
-- Schéma d'installation :
+- Schémas d'installation :
 
 <p align="center">
   <img src="./images/autres_projets/fuga_plantation_vue_face.png" width="600px">
@@ -192,7 +192,7 @@ L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément tro
 ![plantation_haut](./images/autres_projets/fuga_plantation_vue_haut.png) | ![plantation_cote](./images/autres_projets/fuga_plantation_vue_cote.png)
 :-------------------------:|:-------------------------:
 
-*Schéma d'installation, fourni par l'équipe de Fuga*
+*Schémas d'installation, fourni par l'équipe de Fuga*
 
 [GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
