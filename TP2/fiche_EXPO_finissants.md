@@ -37,8 +37,6 @@
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
-
-
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
 - Année de diffusion : 2025
