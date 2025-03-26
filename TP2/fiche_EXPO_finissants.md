@@ -37,6 +37,6 @@ Par projet :
 ---
 
 <div id="prismatica">
-  ##prismatica
+  <h3>Prismatica</h3>
 </div>
 
