@@ -205,7 +205,7 @@ J'ai beaucoup apprécié le fait que l'on puisse contrôler chaque arbre, et que
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/internature_vue_ensemble.jpg" width="600px">
+  <img src="./images/autres_projets/internature_vue_ensemble.jpg" width="600px"> <br>
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
