@@ -227,6 +227,8 @@ L'oeuvre est constituée d'un couloir de soie, avec une boule de contrôle en so
 ![plantation_ensemble](./images/autres_projets/internature_plantation_sphere.jpg) | ![plantation_projecteur](./images/autres_projets/internature_plantation_studio.jpg)
 :-------------------------:|:-------------------------:
 
+*Schéma d'installation, fourni par l'équipe de Internature*
+
 [GitHub_Internature](https://tprangers.github.io/internature/#/)
 
 ### Ressenti personnel :
@@ -240,7 +242,7 @@ Personellement, j'ai beaucoup aimé interagir avec la boule de contrôle, l'idé
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/arcadia_vue_ensemble.jpg" width="600px"> <br>
+  <img src="./images/autres_projets/arcadia_vue_ensemble.jpg" width="500px"> <br>
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
@@ -253,7 +255,10 @@ L'oeuvre est composée d'une borne d'arcade, avec des boutons qui contrôlent un
 
 - Schéma d'installation :
 
-*schema goes here*
+<p align="center">
+  <img src="./images/autres_projets/arcadia_plantation.png" width="300px"> <br>
+  <i>Schéma d'installation, fourni par l'équipe de Arcadia</i>
+</p>
 
 [GitHub_Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
