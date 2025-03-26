@@ -130,7 +130,7 @@ L'oeuvre est composée d'une table blanche avec une image projetée directement 
 
 ### Ressenti personnel :
 Etheria était clairement mon projet préféré. <br>
-L'idée de jouer dans plusieurs directions différentes est excellente. Le fait que cette action, pourtant très basique dans les jeux vidéos modernes, puisse être utilisée d'une autre manière originale m'a vraiment surpris et intrigué. 
+L'idée de jouer dans plusieurs directions différentes est excellente. Le fait que cette action, pourtant très basique dans les jeux vidéos modernes, puisse être utilisée d'une autre manière originale m'a vraiment surpris et intrigué. Le visuel du jeu était vraiment bien réussi.
 
 ---
 
@@ -145,7 +145,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 - Année de diffusion : 2025
 
 ### Description : 
-
+L'oeuvre est constituée de 3 écrans suspendus qui diffusent simultanément trois arbres qui grandissent et s'en vont, ainsi que 3 panneaux de contrôle différents, avec des hauts-parleurs.
 
 - Schéma d'installation :
 
@@ -154,8 +154,8 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 [GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
 ### Ressenti personnel :
-
-
+Fuga a été une expérience très agréable à vivre. <br>
+J'ai beaucoup apprécié le fait que l'on puisse contrôler chaque arbre, et que chaque station que l'on peut interagir avec soit différente des autres, comme si chaque arbre était unique. Le fait que tout les arbres sont éphemères, peu importe qui le contrôle est une belle addition auquel je ne m'attendais pas et m'a bien fait réfléchir sur la condition de l'environnement actuel. 
 
 ---
 
@@ -170,7 +170,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 - Année de diffusion : 2025
 
 ### Description : 
-
+L'oeuvre est constituée d'un couloir de soie, avec une boule de contrôle en son centre. Quelques hauts-parleurs sont situés autour de l'installation, aisni que des projecteurs qui projettent des images sur la toile de l'oeuvre.
 
 - Schéma d'installation :
 
@@ -179,8 +179,8 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 [GitHub_Internature](https://tprangers.github.io/internature/#/)
 
 ### Ressenti personnel :
-
-
+Internature nous aspire vraiment dans un autre monde quand on passe dedans. <br> 
+Personellement, j'ai beaucoup aimé interagir avec la boule de contrôle, l'idée de pouvoir la bouger dans tout les sens était vraiment originale est très bien pensée et exécutée. Les visuels étaient organiques et fluides, ce qui m'a procuré une sensation de paix et de douceur, me rappelant une rivière et un environnement vraiment naturel.
 
 ---
 
@@ -193,7 +193,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 - Année de diffusion : 2025
 
 ### Description : 
-
+L'oeuvre est composée d'une borne d'arcade, avec des boutons qui contrôlent un personnage, affiché sur l'écran de la borne. Des haut-parleurs étaient aussi cachés dans la borne d'arcadde.
 
 - Schéma d'installation :
 
@@ -202,7 +202,7 @@ L'idée de jouer dans plusieurs directions différentes est excellente. Le fait 
 [GitHub_Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
 ### Ressenti personnel :
-
-
+Quoique très classique, Arcadia était vraiment amusant à jouer. <br>
+L'installation me rappelait des bons souvenirs, quand j'allais jouer aux arcades étant plus petit. J'ai particulièrement aimé le look de l'arcade en tant que tel, le style de celle-ci était très réussi et m'a beaucoup attiré lorsque je l'ai vu pour la première fois. Le visuel du jeu m'a plu, puisque j'aime bien ce qui est médiéval.
 
 ---
