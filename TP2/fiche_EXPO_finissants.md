@@ -23,109 +23,6 @@
 - Type d'exposition : temporaire, intérieure
 ---
 
-<div id="prismatica">
-  <h2>Prismatica</h2>
-</div>
-
-<p align="center">
-  <img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="500px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
-</p>
-
-### Installation :
-- Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
-- Année de diffusion : 2025
-
-<p align="center">
-  <img src="./images/autres_projets/prismatica_dessin_personnel.jpg" height="500px"> <br>
-  <i>Dessin personnel - 18/03/2025 - prise par Olivier Laliberté</i>
-</p>
-
-### Description : 
-L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
-
-- Schémas d'installation :
-
-![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_projecteur](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_tableau](./images/autres_projets/prismatica_plantation_tableau.jpg)
-:-------------------------:|:-------------------------:|:-------------------------:
-
-*Schémas d'installation, fournis par l'équipe de prismatica*
-
-[GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
-
-### Ressenti personnel :
-Personellement, j'ai beaucoup aimé *Prismatica*. <br>
-La présentation et l'ambiance étaient vraiment différentes des autres installations présentées, c'était beaucoup plus calme et apaisant. J'ai particulièrement aimé l'aspect artistique de l'oeuvre, puisque dessiner est une de mes passions personelles.
-
----
-
-<div id="condu8">
-  <h2>CON DU8</h2>
-</div>
-
-<p align="center">
-  <img src="./images/autres_projets/condu8_vue_ensemble.jpg" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
-</p>
-
-### Installation :
-- Créé par : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric, Jérémy Roy Coté
-- Année de diffusion : 2025
-
-### Description : 
-L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran de diffusion avec un projecteur et des hauts-parleurs.
-
-- Schéma d'installation :
-
-<p align="center">
-  <img src="./images/autres_projets/condu8_plantation.webp" width="300px"> <br>
-  <i>Schéma d'installation, fourni par l'équipe de CON DU8</i>
-</p>
-
-[GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
-
-### Ressenti personnel :
-CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia. <br>
-Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos cours. Le fait d'être sur un vélo dans un monde futuriste me fait beaucoup penser à TRON, je recommande fortement d'y jeter un coup d'oeil si on a aimé l'installation.
-
----
-
-<div id="luminatura">
-  <h2>Luminatura</h2>
-</div>
-
-<p align="center">
-  <img src="./images/autres_projets/luminatura_vue_ensemble.jpeg" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Efraïm Canizalez</i>
-</p>
-
-### Installation :
-- Créé par : Audrey Dandurand, Justine Rousseau, Camila Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
-- Année de diffusion : 2025
-
-### Description : 
-L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs faites à la main, des spotlights de couleurs différentes, ainsi que des plaques tactiles supportées par des haut-parleurs.
-
-<p align="center">
-  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="350px"> <br>
-  <i>Plaque tactile - 18/03/2025 - prise par Olivier Laliberté</i>
-</p>
-
-- Schéma d'installation :
-
-<p align="center">
-  <img src="./images/autres_projets/luminatura_plantation.jpg" width="300px"> <br>
-  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
-</p>
-
-[GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
-
-### Ressenti personnel :
-Luminatura est parti d'un concept simple, mais a été très bien exécuté. <br>
-J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il faut juste toucher une plaque pour activer l'installation. Les visuels étaient magnifiques, j'ai particulièrement aimé le mélange de couleurs créé par l'oeuvre en tant que tel.
-
----
-
 <div id="etheria">
   <h2>Etheria</h2>
 </div>
@@ -233,6 +130,109 @@ L'oeuvre est constituée d'un couloir de soie, avec une boule de contrôle en so
 ### Ressenti personnel :
 Internature nous aspire vraiment dans un autre monde quand on passe dedans. <br> 
 Personellement, j'ai beaucoup aimé interagir avec la boule de contrôle, l'idée de pouvoir la bouger dans tout les sens était vraiment originale est très bien pensée et exécutée. Les visuels étaient organiques et fluides, ce qui m'a procuré une sensation de paix et de douceur, me rappelant une rivière et un environnement vraiment naturel.
+
+---
+
+<div id="luminatura">
+  <h2>Luminatura</h2>
+</div>
+
+<p align="center">
+  <img src="./images/autres_projets/luminatura_vue_ensemble.jpeg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Efraïm Canizalez</i>
+</p>
+
+### Installation :
+- Créé par : Audrey Dandurand, Justine Rousseau, Camila Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
+- Année de diffusion : 2025
+
+### Description : 
+L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs faites à la main, des spotlights de couleurs différentes, ainsi que des plaques tactiles supportées par des haut-parleurs.
+
+<p align="center">
+  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="350px"> <br>
+  <i>Plaque tactile - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
+- Schéma d'installation :
+
+<p align="center">
+  <img src="./images/autres_projets/luminatura_plantation.jpg" width="300px"> <br>
+  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
+</p>
+
+[GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
+
+### Ressenti personnel :
+Luminatura est parti d'un concept simple, mais a été très bien exécuté. <br>
+J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il faut juste toucher une plaque pour activer l'installation. Les visuels étaient magnifiques, j'ai particulièrement aimé le mélange de couleurs créé par l'oeuvre en tant que tel.
+
+---
+
+<div id="condu8">
+  <h2>CON DU8</h2>
+</div>
+
+<p align="center">
+  <img src="./images/autres_projets/condu8_vue_ensemble.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
+### Installation :
+- Créé par : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric, Jérémy Roy Coté
+- Année de diffusion : 2025
+
+### Description : 
+L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran de diffusion avec un projecteur et des hauts-parleurs.
+
+- Schéma d'installation :
+
+<p align="center">
+  <img src="./images/autres_projets/condu8_plantation.webp" width="300px"> <br>
+  <i>Schéma d'installation, fourni par l'équipe de CON DU8</i>
+</p>
+
+[GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
+### Ressenti personnel :
+CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia. <br>
+Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos cours. Le fait d'être sur un vélo dans un monde futuriste me fait beaucoup penser à TRON, je recommande fortement d'y jeter un coup d'oeil si on a aimé l'installation.
+
+---
+
+<div id="prismatica">
+  <h2>Prismatica</h2>
+</div>
+
+<p align="center">
+  <img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="500px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
+### Installation :
+- Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
+- Année de diffusion : 2025
+
+<p align="center">
+  <img src="./images/autres_projets/prismatica_dessin_personnel.jpg" height="500px"> <br>
+  <i>Dessin personnel - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
+### Description : 
+L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
+
+- Schémas d'installation :
+
+![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_projecteur](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_tableau](./images/autres_projets/prismatica_plantation_tableau.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+
+*Schémas d'installation, fournis par l'équipe de prismatica*
+
+[GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
+
+### Ressenti personnel :
+Personellement, j'ai beaucoup aimé *Prismatica*. <br>
+La présentation et l'ambiance étaient vraiment différentes des autres installations présentées, c'était beaucoup plus calme et apaisant. J'ai particulièrement aimé l'aspect artistique de l'oeuvre, puisque dessiner est une de mes passions personelles.
 
 ---
 
