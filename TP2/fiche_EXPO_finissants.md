@@ -120,7 +120,7 @@ L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs f
 
 <p align="center">
   <img src="./images/autres_projets/luminatura_plantation.jpg" width="300px"> <br>
-  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 [GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
