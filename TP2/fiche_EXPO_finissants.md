@@ -54,6 +54,8 @@ L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des cra
 ![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_tableau.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
+*schémas d'installation, fournis par l'équipe de prismatica*
+
 [GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
 ### Ressenti personnel :
