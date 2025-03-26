@@ -43,16 +43,14 @@ Par projet :
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
 - Année de diffusion : 2025
-- Type d'installation : interactive
 
-- Description :
+### Description : 
 
-  
-- Mise en espace :
 
-- Composantes techniques :
 
-- Éléments nécéssaires à la mise en exposition :
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
@@ -71,11 +69,13 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
@@ -94,11 +94,14 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
 
@@ -117,11 +120,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Etheria](https://ethereal-creators.github.io/Etheria/#/)
 
@@ -140,11 +145,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
@@ -163,11 +170,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Internature](https://tprangers.github.io/internature/#/)
 
@@ -184,11 +193,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Installation :
 - Créé par :
 - Année de diffusion :
-- Type d'installation :
-- Description :
-- Mise en espace :
-- Composantes techniques :
-- Éléments nécéssaires à la mise en exposition :
+
+### Description : 
+
+
+- Schéma d'installation :
+
+*schema goes here*
 
 [GitHub_Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
