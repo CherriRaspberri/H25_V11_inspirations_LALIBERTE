@@ -27,7 +27,7 @@ Par projet :
 
 ## Expositions 
 
-- Prismatica
+- [Prismatica](#prismatica)
 - CON DU8
 - Luminatura
 - Etheria
