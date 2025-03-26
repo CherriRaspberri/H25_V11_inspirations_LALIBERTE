@@ -135,7 +135,10 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
   <h2>Etheria</h2>
 </div>
 
-*expo img goes here*
+<p align="center">
+  <img src="./images/autres_projets/etheria_vue_ensemble.jpg" width="600px"> <br>
+  <i>Schéma d'installation, fourni par l'équipe de Luminatura</i>
+</p>
 
 ### Installation :
 - Créé par : Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx, Maik Hamel
