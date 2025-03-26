@@ -6,7 +6,7 @@
 # EXPOSITION FINISSANTS TIM 2025 - RESONANCE
 
 ![image_resonance](./images/resonance_image_projection.jpg)
-
+*18/03//2025 - prise par Olivier laliberté*
 ## Expositions 
 
 - [Prismatica](#prismatica)
@@ -40,8 +40,6 @@
 
 ### Description : 
 L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
-
-*img goes here*
 
 - Schéma d'installation :
 
