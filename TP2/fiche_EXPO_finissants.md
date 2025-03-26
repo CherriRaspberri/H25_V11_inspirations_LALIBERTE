@@ -239,6 +239,11 @@ Personellement, j'ai beaucoup aimé interagir avec la boule de contrôle, l'idé
   <h2>Arcadia</h2>
 </div>
 
+<p align="center">
+  <img src="./images/autres_projets/arcadia_vue_ensemlbe.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
 ### Installation :
 - Créé par : Anton Nikulin, Dominic Yale, William Beauvais
 - Année de diffusion : 2025
