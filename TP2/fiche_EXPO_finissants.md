@@ -5,7 +5,9 @@
 
 # EXPOSITION FINISSANTS TIM 2025 - RESONANCE
 
-*main event img goes here*
+<div style="text-align: center">
+  <img src="./images">
+</div>
 
 ## Expositions 
 
