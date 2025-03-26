@@ -30,9 +30,9 @@
   <h2>Prismatica</h2>
 </div>
 
-<img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="200px">
-
-![prismatica](./images/autres_projets/prismatica_vue_ensemble.jpg)
+<p align="center">
+  <img src="./images/autres_projets/prismatica_vue_ensemble.jpg" height="500px">  
+</p>
 
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
