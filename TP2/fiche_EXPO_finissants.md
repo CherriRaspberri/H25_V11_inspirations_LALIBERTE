@@ -39,7 +39,7 @@ Par projet :
 
 
 ### Ressenti personnel :
-Personellement, j'ai beaucoup aimé *Prismatica*. 
+Personellement, j'ai beaucoup aimé *Prismatica*. <br>
 La présentation et l'ambiance étaient vraiment différentes des autres installations présentées, c'était beaucoup plus calme et apaisant. J'ai particulièrement aimé l'aspect artistique de l'oeuvre, puisque dessiner est une de mes passions personelles.
 
 ---
