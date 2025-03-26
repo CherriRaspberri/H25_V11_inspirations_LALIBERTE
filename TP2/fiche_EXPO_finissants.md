@@ -1,8 +1,3 @@
-À la fin : 
-- cours incontournables pour réaliser le projet (3)
-- technique ou composante techno utilisée 
-
-
 # EXPOSITION FINISSANTS TIM 2025 - RESONANCE
 
 ![image_resonance](./images/resonance_image_projection.jpg)
@@ -271,3 +266,7 @@ Quoique très classique, Arcadia était vraiment amusant à jouer. <br>
 L'installation me rappelait des bons souvenirs, quand j'allais jouer aux arcades étant plus petit. J'ai particulièrement aimé le look de l'arcade en tant que tel, le style de celle-ci était très réussi et m'a beaucoup attiré lorsque je l'ai vu pour la première fois. Le visuel du jeu m'a plu, puisque j'aime bien ce qui est médiéval.
 
 ---
+
+# Cours incontournables pour la réalisation des projets
+
+# Technique originale utilisée
