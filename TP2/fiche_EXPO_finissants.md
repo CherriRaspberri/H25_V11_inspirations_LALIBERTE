@@ -112,7 +112,7 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs faites à la main, des spotlights de couleurs différentes, ainsi que des plaques tactiles supportées par des haut-parleurs.
 
 <p align="center">
-  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="200px"> <br>
+  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="300px"> <br>
   <i>Plaque tactile - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
