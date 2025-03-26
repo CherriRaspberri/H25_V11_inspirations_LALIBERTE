@@ -28,39 +28,66 @@ Par projet :
 ## Expositions 
 
 - [Prismatica](#prismatica)
-- CON DU8
-- Luminatura
-- Etheria
-- Fuga
-- Internature
-- Arcadia
+- [CON DU8](#condu8)
+- [Luminatura](#luminatura)
+- [Etheria](#etheria)
+- [Fuga](#fuga)
+- [Internature](#internature)
+- [Arcadia](#arcadia)
 ---
 
 <div id="prismatica">
   <h2>Prismatica</h2>
 </div>
--
--
--
--
--
--
--
+
+
+
 ---
 
 <div id="condu8">
   <h2>CON DU8</h2>
 </div>
--
--
--
--
--
--
--
+
+
+
 ---
 
 <div id="luminatura">
-  <h2>CLuminatura</h2>
+  <h2>Luminatura</h2>
 </div>
--
+
+
+
+---
+
+<div id="etheria">
+  <h2>Etheria</h2>
+</div>
+
+
+
+---
+
+<div id="fuga">
+  <h2>Fuga</h2>
+</div>
+
+
+
+---
+
+<div id="internature">
+  <h2>Internature</h2>
+</div>
+
+
+
+---
+
+<div id="arcadia">
+  <h2>Arcadia</h2>
+</div>
+
+
+
+---
