@@ -100,7 +100,7 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/#" width="600px"> <br>
+  <img src="./images/autres_projets/luminatura_vue_ensemble.jpeg" width="600px"> <br>
   <i>Vue d'ensemble - 18/03/2025 - prise par Efraïm Canizalez</i>
 </p>
 
