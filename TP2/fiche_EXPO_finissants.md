@@ -43,7 +43,10 @@
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
 - Année de diffusion : 2025
 
-<img src="./images/autres_projets/prismatica_dessin_personnel.jpg" width="400px">
+<p align="center">
+  <img src="./images/autres_projets/prismatica_dessin_personnel.jpg" height="500px"> <br>
+  <i>Dessin personnel - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
 
 ### Description : 
 L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
