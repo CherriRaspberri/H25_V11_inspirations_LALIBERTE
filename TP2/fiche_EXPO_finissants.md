@@ -150,6 +150,8 @@ L'oeuvre est composée d'une table blanche avec une image projetée directement 
 ![presentation](./images/etheria/etheria_presentation.jpg) | ![piece_de_jeu](./images/etheria/etheria_final_piece_de_jeu.jpg)
 :-------------------------:|:-------------------------:
 
+*Panneau de présentation / pièce de jeu - 18/03/2025 - prises par Olivier Laliberté*
+
 - Schéma d'installation :
 
 <p align="center">
