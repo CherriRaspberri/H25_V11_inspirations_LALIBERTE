@@ -54,7 +54,7 @@ L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des cra
 ![plantation_ensemble](./images/autres_projets/prismatica_plantation_ensemble.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_projecteur.jpg) | ![plantation_ensemble](./images/autres_projets/prismatica_plantation_tableau.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-*schémas d'installation, fournis par l'équipe de prismatica*
+*Schémas d'installation, fournis par l'équipe de prismatica*
 
 [GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
@@ -84,7 +84,7 @@ L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran
 
 <p align="center">
   <img src="./images/autres_projets/condu8_plantation.webp" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+  <i>Schéma d'installation, fourni par l'équipe de CON DU8</i>
 </p>
 
 [GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
