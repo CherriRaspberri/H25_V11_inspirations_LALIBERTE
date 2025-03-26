@@ -33,6 +33,8 @@ Par projet :
 *expo img goes here*
 
 ### Installation :
+*description*
+
 [GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
 
@@ -50,6 +52,8 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 
 ### Installation :
 
+[GitHub_CONDU8](https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
 ### Ressenti personnel :
 CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia.
 Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos cours. Le fait d'être sur un vélo dans un monde futuriste me fait beaucoup penser à TRON, je recommande fortement d'y jeter un coup d'oeil si on a aimé l'installation.
@@ -63,6 +67,8 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 *expo img goes here*
 
 ### Installation :
+
+[GitHub_Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/)
 
 ### Ressenti personnel :
 Luminatura est parti d'un concept simple, mais a été très bien exécuté. 
@@ -78,6 +84,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 
 ### Installation :
 
+[GitHub_Etheria](https://ethereal-creators.github.io/Etheria/#/)
+
 ### Ressenti personnel :
 
 
@@ -91,6 +99,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 *expo img goes here*
 
 ### Installation :
+
+[GitHub_Fuga](https://escapism-fuga.github.io/Fuga/#/)
 
 ### Ressenti personnel :
 
@@ -106,6 +116,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 
 ### Installation :
 
+[GitHub_Internature](https://tprangers.github.io/internature/#/)
+
 ### Ressenti personnel :
 
 
@@ -117,6 +129,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 </div>
 
 ### Installation :
+
+[GitHub_Arcadia](https://cousi-cousa.github.io/Arcadia/#/)
 
 ### Ressenti personnel :
 
