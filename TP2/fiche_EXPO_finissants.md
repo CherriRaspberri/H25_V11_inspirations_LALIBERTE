@@ -5,13 +5,14 @@
 
 ## Expositions 
 
-- [Prismatica](#prismatica)
-- [CON DU8](#condu8)
-- [Luminatura](#luminatura)
-- [Etheria](#etheria)
-- [Fuga](#fuga)
-- [Internature](#internature)
-- [Arcadia](#arcadia)
+1. [Etheria](#etheria)
+2. [Fuga](#fuga)
+3. [Internature](#internature)
+4. [Luminatura](#luminatura)
+5. [CON DU8](#condu8)
+6. [Prismatica](#prismatica)
+7. [Arcadia](#arcadia)
+
 ---
 ## Informations générales 
 
