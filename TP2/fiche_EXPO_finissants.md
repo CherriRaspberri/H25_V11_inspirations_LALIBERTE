@@ -42,7 +42,7 @@
 - Année de diffusion : 2025
 
 <p align="center">
-  <img src="./images/autres_projets/prismatica_dessin_personnel.jpg" height="500px"> <br>
+  <img src="./images/autres_projets/prismatica_dessin_personnel.jpg" height="300px"> <br>
   <i>Dessin personnel - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
