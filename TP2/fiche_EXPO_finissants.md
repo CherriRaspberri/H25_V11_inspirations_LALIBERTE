@@ -33,7 +33,7 @@ Par projet :
 *expo img goes here*
 
 ### Installation :
-
+[GitHub_Prismatica](https://pootpookies.github.io/Prismatica/#/)
 
 
 ### Ressenti personnel :
