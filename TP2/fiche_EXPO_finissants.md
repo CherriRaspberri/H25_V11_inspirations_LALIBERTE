@@ -240,7 +240,7 @@ Personellement, j'ai beaucoup aimé interagir avec la boule de contrôle, l'idé
 </div>
 
 <p align="center">
-  <img src="./images/autres_projets/arcadia_vue_ensemble.png" width="600px"> <br>
+  <img src="./images/autres_projets/arcadia_vue_ensemble.jpg" width="600px"> <br>
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
