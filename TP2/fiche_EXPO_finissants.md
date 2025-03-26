@@ -37,10 +37,13 @@
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
-<img style="float: right;" src="./images/autres_projets/prismatica_dessin_personnel.jpg">
+
+
 ### Installation :
 - Créé par : Ikrame Rata, Vincent Delisle, Jérémy Duverseau
 - Année de diffusion : 2025
+
+<img style="float: right;" src="./images/autres_projets/prismatica_dessin_personnel.jpg">
 
 ### Description : 
 L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
