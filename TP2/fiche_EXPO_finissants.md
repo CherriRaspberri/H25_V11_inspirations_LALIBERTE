@@ -19,7 +19,7 @@
 ---
 ## Informations générales 
 
-*img goes here*
+![photo_presence](./images/photo_presence.jpg)
 
 - Lieu d'exposition : [Cégep Montmorency](https://www.google.com/maps/place/Montmorency+College/@45.5598887,-73.7218992,16z/data=!3m2!4b1!5s0x4cc922377e2434df:0x98f825893e4ee3b0!4m6!3m5!1s0x4cc9223815890e79:0xe7408a77564697c4!8m2!3d45.5598887!4d-73.7193243!16zL20vMDdrdHJ4?entry=ttu&g_ep=EgoyMDI1MDMyMy4wIKXMDSoASAFQAw%3D%3D)
 - Date de visite : 18 mars 2025
