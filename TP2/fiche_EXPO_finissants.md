@@ -25,3 +25,13 @@ Par projet :
 
 *main event img goes here*
 
+## Expositions 
+
+- Prismatica
+- CON DU8
+- Luminatura
+- Etheria
+- Fuga
+- Internature
+- Arcadia
+
