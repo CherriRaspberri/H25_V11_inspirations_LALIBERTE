@@ -6,16 +6,6 @@ Par projet :
 - schéma de l'installation
 - ressenti personnel
 
-
-1. Prismatica
-2. CON DU8
-3. Luminatura
-4. Etheria
-5. Fuga
-6. Internature
-7. Arcadia
-
-
 À la fin : 
 - cours incontournables pour réaliser le projet (3)
 - technique ou composante techno utilisée 
@@ -40,13 +30,27 @@ Par projet :
   <h2>Prismatica</h2>
 </div>
 
+*expo img goes here*
 
+### Installation :
+
+
+
+### Ressenti personnel :
+Personellement, j'ai beaucoup aimé *Prismatica*. 
+La présentation et l'ambiance étaient vraiment différentes des autres installations présentées, c'était beaucoup plus calme et apaisant. J'ai particulièrement aimé l'aspect artistique de l'oeuvre, puisque dessiner est une de mes passions personelles.
 
 ---
 
 <div id="condu8">
   <h2>CON DU8</h2>
 </div>
+
+*expo img goes here*
+
+### Installation :
+
+### Ressenti personnel :
 
 
 
@@ -56,6 +60,12 @@ Par projet :
   <h2>Luminatura</h2>
 </div>
 
+*expo img goes here*
+
+### Installation :
+
+### Ressenti personnel :
+
 
 
 ---
@@ -63,6 +73,12 @@ Par projet :
 <div id="etheria">
   <h2>Etheria</h2>
 </div>
+
+*expo img goes here*
+
+### Installation :
+
+### Ressenti personnel :
 
 
 
@@ -72,6 +88,12 @@ Par projet :
   <h2>Fuga</h2>
 </div>
 
+*expo img goes here*
+
+### Installation :
+
+### Ressenti personnel :
+
 
 
 ---
@@ -80,6 +102,12 @@ Par projet :
   <h2>Internature</h2>
 </div>
 
+*expo img goes here*
+
+### Installation :
+
+### Ressenti personnel :
+
 
 
 ---
@@ -87,6 +115,10 @@ Par projet :
 <div id="arcadia">
   <h2>Arcadia</h2>
 </div>
+
+### Installation :
+
+### Ressenti personnel :
 
 
 
