@@ -37,8 +37,9 @@
 - Année de diffusion : 2025
 
 ### Description : 
+L'oeuvre est composée d'un écran de diffusion, d'un tableau blanc avec des crayons (qui nous permettent de dessiner sur le tableau), d'un capteur placé au dessus du tableau, ainsi que des écouteurs pour entendre ce que l'on dessine.
 
-
+*img goes here*
 
 - Schéma d'installation :
 
@@ -59,11 +60,13 @@ La présentation et l'ambiance étaient vraiment différentes des autres install
 *expo img goes here*
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric, Jérémy Roy Coté
+- Année de diffusion : 2025
 
 ### Description : 
+L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran de diffusion avec un projecteur et des hauts-parleurs.
 
+*img goes here*
 
 - Schéma d'installation :
 
@@ -84,12 +87,13 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 *expo img goes here*
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Audrey Dandurand, Justine Rousseau, Camila Bouatmani, Prethiah Rajaratnam, Ihab Mouhajer
+- Année de diffusion : 2025
 
 ### Description : 
+L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs faites à la main, des spotlights de couleurs différentes, ainsi que des plaques tactiles supportées par des haut-parleurs.
 
-
+*img goes here*
 
 - Schéma d'installation :
 
@@ -110,11 +114,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 *expo img goes here*
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx, Maik Hamel
+- Année de diffusion : 2025
 
 ### Description : 
+L'oeuvre est composée d'une table blanche avec une image projetée directement dessus et des lumières en dessous, avec des pièces à jouer.
 
+*img goes here*
 
 - Schéma d'installation :
 
@@ -123,8 +129,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 [GitHub_Etheria](https://ethereal-creators.github.io/Etheria/#/)
 
 ### Ressenti personnel :
-
-
+Etheria était clairement mon projet préféré. <br>
+L'idée de jouer dans plusieurs directions différentes est excellente. Le fait que cette action, pourtant très basique dans les jeux vidéos modernes, puisse être utilisée d'une autre manière originale m'a vraiment surpris et intrigué. 
 
 ---
 
@@ -135,8 +141,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 *expo img goes here*
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka, Yavuz-Selim Gucluer
+- Année de diffusion : 2025
 
 ### Description : 
 
@@ -160,8 +166,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 *expo img goes here*
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Kenza El Harrif, Isaac Fafard, Delphine Grenier, Khaly Tia Sing, Sitmonternna Yi
+- Année de diffusion : 2025
 
 ### Description : 
 
@@ -183,8 +189,8 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 </div>
 
 ### Installation :
-- Créé par :
-- Année de diffusion :
+- Créé par : Anton Nikulin, Dominic Yale, William Beauvais
+- Année de diffusion : 2025
 
 ### Description : 
 
