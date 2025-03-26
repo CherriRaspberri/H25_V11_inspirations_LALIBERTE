@@ -30,6 +30,8 @@
   <h2>Prismatica</h2>
 </div>
 
+<img src="./images/autres_projets/prismatica_vue_ensemble.jpg" style="max-height: 200px">
+
 ![prismatica](./images/autres_projets/prismatica_vue_ensemble.jpg)
 
 ### Installation :
