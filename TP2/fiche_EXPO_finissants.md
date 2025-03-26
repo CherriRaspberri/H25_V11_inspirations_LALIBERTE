@@ -112,7 +112,7 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 L'oeuvre est constituée de plusieurs lumières suspendues arborées de fleurs faites à la main, des spotlights de couleurs différentes, ainsi que des plaques tactiles supportées par des haut-parleurs.
 
 <p align="center">
-  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="300px"> <br>
+  <img src="./images/autres_projets/luminatura_plaque_tactile.jpg" width="350px"> <br>
   <i>Plaque tactile - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
@@ -147,12 +147,13 @@ J'ai beaucoup aimé le côté artistique et simpliste de l'oeuvre, du fait qu'il
 ### Description : 
 L'oeuvre est composée d'une table blanche avec une image projetée directement dessus et des lumières en dessous, avec des pièces à jouer.
 
-*img goes here*
+![plantation_ensemble](./images/etheria/etheria_presentation.jpg) | ![plantation_ensemble](./images/etheria/etheria_final_piece_de_jeu.jpg)
+:-------------------------:|:-------------------------:
 
 - Schéma d'installation :
 
 <p align="center">
-  <img src="./images/etheria/etheria_plantation.jpg" width="300px"> <br>
+  <img src="./images/etheria/etheria_plantation.jpg" width="350px"> <br>
   <i>Schéma d'installation, fourni par l'équipe de Etheria</i>
 </p>
 
