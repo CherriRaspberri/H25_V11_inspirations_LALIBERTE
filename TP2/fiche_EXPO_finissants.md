@@ -6,7 +6,7 @@
 # EXPOSITION FINISSANTS TIM 2025 - RESONANCE
 
 ![image_resonance](./images/resonance_image_projection.jpg)
-*logo d'exposition - 18/03//2025 - prise par Olivier laliberté*
+*Logo d'exposition - 18/03//2025 - prise par Olivier laliberté*
 ## Expositions 
 
 - [Prismatica](#prismatica)
