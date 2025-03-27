@@ -9,7 +9,6 @@
 
 - Lieu de mise en exposition : [Cégep Montmorency](https://www.google.com/maps/place/Montmorency+College/@45.5598887,-73.7218992,17z/data=!3m2!4b1!5s0x4cc922377e2434df:0x98f825893e4ee3b0!4m6!3m5!1s0x4cc9223815890e79:0xe7408a77564697c4!8m2!3d45.5598887!4d-73.7193243!16zL20vMDdrdHJ4?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
 - type d'exposition : temporaire, intérieure
-- Date de visite : 18 mars 2025
 
 ## Etheria
 
@@ -30,6 +29,16 @@ Etheria est un jeu de "Tower Defense" où le but du jeu est de défendre un crys
 ## Mise en espace
 
 *vue d'ensemble, plantation, etc*
+
+<p align="center">
+  <img src="./images/etheria/.jpg" width="600px">
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
+<p align="center">
+  <img src="./images/etheria/etheria_plantation.jpg" width="600px">
+  <i>Schéma de plantation, fourni par les créateurs de Etheria</i>
+</p>
 
 ## Composantes Techniques
 L'installation était composée d'une table en son centre, avec des visuels projetés sur cette table. En haut, un projecteur avec des hauts-parleurs diffusaient l'image du jeu et de la musique avec des effets de son, réagissant aux mouvements et diverses actions que les joueurs émettaient en jouant. Un capteur de mouvement était aussi utilisé pour capter les mouvements des joueurs et des pièces de jeu. En dessous de la table, des lumières et des feuilles ont été installées pour donner un aspect visuel attirant. 
@@ -63,6 +72,8 @@ En dessous de la table :
 - elements nécéssaires à la mise en expo :
 
 ## Expérience vécue 
+- Date de visite : 25 février 2025, 18 mars 2025
+
 Dès que j'ai approché la table, j'ai tout de suite compris quoi faire. <br>
 Avec des amis, nous avons pris les pièces et commencé à jouer. Le fait que l'installation n'avait pas besoin d'explications fut un énorme point positif, et cela veut dire que l'oeuvre peut rouler sans animateur présent, ce qui desfois peut être encombrant. Les explications écrites étaient claires et concises, tout en ne ralentissant pas l'expérience de jeu. <br>
 Le concept était simple, défendre un crystal au centre de la zone de jeu. Nous avons même réussi, à trois joueurs, à réussir du premier coup. <br>
