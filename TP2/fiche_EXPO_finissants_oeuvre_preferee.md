@@ -46,6 +46,8 @@ Au centre de l'installation :
 ![prototype](./images/etheria/prototype_piece_de_jeu.jpg) | ![produit_final](./images/etheria/etheria_final_piece_de_jeu.jpg)
 :-------------------------:|:-------------------------:
 
+*Pièces de jeu (prototype / version finale) - 25/02/2025 / 18/03/2025 - prises par Olivier Laliberté*
+
 Les pièces de jeu avaient toutes un code QR placé au dessus de chacune d'entre elles et une flèche pointant dans une direction quelconque. Cela permettait au capteur de détecter la rotation dans laquelle chaque pièce était, permettant de changer la direction du point de vue des personnages.
 
 Au plafond : 
