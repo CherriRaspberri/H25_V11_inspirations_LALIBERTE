@@ -5,6 +5,9 @@
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
+[Vidéo explicative](https://www.youtube.com/watch?v=nwJlMtzI-8g)
+[Making-of Etheria](https://www.youtube.com/watch?v=MDbdMdqdUuc)
+
 ## Fiche technique
 
 - Lieu de mise en exposition : [Cégep Montmorency](https://www.google.com/maps/place/Montmorency+College/@45.5598887,-73.7218992,17z/data=!3m2!4b1!5s0x4cc922377e2434df:0x98f825893e4ee3b0!4m6!3m5!1s0x4cc9223815890e79:0xe7408a77564697c4!8m2!3d45.5598887!4d-73.7193243!16zL20vMDdrdHJ4?entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoASAFQAw%3D%3D)
