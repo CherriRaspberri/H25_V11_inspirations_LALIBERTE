@@ -206,6 +206,7 @@ Dans le projet CON DU8, une technique spéciale et intégrale à l'installation 
 En gros, quand la roue tourne, elle émet un courant électrique, qui est envoyé dans un moteur. Ce moteur est ensuite redirigé vers un voltmètre qui calcule la puissance de ce courant électrique et l'envoie vers l'ordinateur principal. Cette puissance est ensuite utilisée pour faire avancer le personnage dans le jeu, en avançant plus vite si la puissance de la roue est plus forte.
 
 [Pour en savoir plus](https://www.futek.com/Electric-Motor-Output-Power?srsltid=AfmBOopH_P73Lofbiy-UZMgy6SHeENaSLhyZCcozeaZbD_NzKlJBxXIr)
+
 ---
 
 <div id="prismatica">
