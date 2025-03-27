@@ -16,6 +16,11 @@
 - Créateurs : Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx, Maik Hamel
 - Année de réalisation : 2025
 
+<p align="center">
+  <img src="./images/etheria/ehteria_vue_jeu_horizontal.jpg">
+  <i>Joueurs - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
 ## Description
 Etheria est un jeu de "Tower Defense" où le but du jeu est de défendre un crystal contre divers monstres et objets. Après 4 niveaux, le jeu prend fin si on a réussi à bien protéger ce crystal et un écran de victoire est montré. Durant la partie, plusieurs objets permettaient aux joueurs d'évoluer leur personnage respectif, si le joueur avec le bon personnage les ramassait. Si les joueurs n'arrivaient pas à défendre le crystal, le jeu prend fin et un écran de défaite était diffusé.
 
