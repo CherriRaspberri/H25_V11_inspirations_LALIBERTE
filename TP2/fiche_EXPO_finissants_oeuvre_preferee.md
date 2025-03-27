@@ -31,8 +31,8 @@ Etheria est un jeu de "Tower Defense" où le but du jeu est de défendre un crys
 *vue d'ensemble, plantation, etc*
 
 <p align="center">
-  <img src="./images/etheria/.jpg" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+  <img src="./images/etheria/etheria_vue_ensemble_technique.jpg" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - fournie par l'équipe de Etheria</i>
 </p>
 
 <p align="center">
