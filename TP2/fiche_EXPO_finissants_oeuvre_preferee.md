@@ -48,6 +48,7 @@ Au plafond :
 En dessous de la table : 
 - Lumières LED
 - Fausses vignes
+- Sacs de sable
 
 - elements nécéssaires à la mise en expo :
 
