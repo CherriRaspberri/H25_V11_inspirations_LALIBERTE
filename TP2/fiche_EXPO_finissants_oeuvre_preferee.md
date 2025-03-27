@@ -72,7 +72,7 @@ En dessous de la table :
 
 <p align="center">
   <img src="./images/etheria/etheria_vue_dessous.jpg" width="600px"> <br>
-  <i>Composantes techniques - 18/03/2025 - prise par Olivier Laliberté</i>
+  <i>Vue du dessous de table - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 - elements nécéssaires à la mise en expo :
