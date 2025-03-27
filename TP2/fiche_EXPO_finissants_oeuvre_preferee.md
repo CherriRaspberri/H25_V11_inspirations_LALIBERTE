@@ -1,7 +1,7 @@
 # EXPOSITION FINISSANTS TIM 2025 : Etheria
 
 <p align="center">
-  <img src="./images/etheria/etheria_vue_jeu_horizontal.jpg">
+  <img src="./images/etheria/ehteria_vue_jeu_horizontal.jpg">
 </p>
 
 ## Fiche technique
