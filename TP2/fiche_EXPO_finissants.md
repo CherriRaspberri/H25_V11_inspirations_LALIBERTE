@@ -199,6 +199,10 @@ L'oeuvre est munie d'un vélo stationnaire modifié avec des capteurs, un écran
 CON DU8 est une oeuvre qui, à mon avis, résume parfaitement la technique d'intégration multimédia. <br>
 Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos cours. Le fait d'être sur un vélo dans un monde futuriste me fait beaucoup penser à TRON, je recommande fortement d'y jeter un coup d'oeil si on a aimé l'installation.
 
+## Technique originale utilisée
+
+*use of metering electricity voltage to use as inputs*
+
 ---
 
 <div id="prismatica">
@@ -270,4 +274,11 @@ L'installation me rappelait des bons souvenirs, quand j'allais jouer aux arcades
 
 ## Cours incontournables pour la réalisation des projets
 
-## Technique originale utilisée
+### Modélisation 3D
+La modélisation 3D semble incontournable pour certains projets présentés. Par exemple, dans le projet *Fuga*, sans la modélisation 3D, aucun arbe n'aurait pu être généré. 
+
+### Installation Multimédia
+Pour bien installer des composantes audiovisuelles, le cours d'installation multimédia m'est tout de suite venu en tête. Avec l'aide de ce cours, les créateurs des oeuvres ont pu bien installer et faire fonctionner toutes leur installations sans importuner l'utilisateur; Par exemple, sans ce cours, des fils auraient pu être dans le chemin, ou les projections montrées auraient pu être encombrées par des gens qui passent devant les projecteurs.
+
+### Traitement Audiovisuel
+Le cours de traitement audiovisuel aide vraiment à bien mélanger vidéo et son. Puisque la plupart des installations incluaient de la vidéo avec de l'audio simultanément, ce cours semble assez important pour savoir comment bien faire fonctionner les deux en même temps.
