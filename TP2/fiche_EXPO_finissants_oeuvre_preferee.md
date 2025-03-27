@@ -77,35 +77,36 @@ En dessous de la table :
 
 ### Éléments fournis par l'exposition
 
-- Haut-parleurs (Genelec 8020D) x2
-  - Câbles XLR x3
-  - Câble d'alimentation pour les Haut-Parleurs x2
-  - Focusrite Scarlett 6i6 2nd gen x1
-  - Câble XLR à USB x1
-  - Carte de son (focusrite) x1
+- Haut-parleurs (Genelec 8020D) (x2)
+  - Câbles XLR (x3)
+  - Câble d'alimentation pour les Haut-Parleurs (x2)
+  - Focusrite Scarlett 6i6 2nd gen (x1)
+  - Câble XLR à USB (x1)
+  - Carte de son (focusrite) (x1)
 
-Epson (H867A) LCD Projector x1
+- Epson (H867A) LCD Projector (x1)
+  - Extension HDMI avec Ethernet (x1)
+  - Câbles ethernet (x3)
+  - Câbles HDMI (x2)
+  - Kinect v1 (x1)
 
-Extension HDMI avec Ethernet x1
-Câbles ethernet x3
-Câbles HDMI x2
-Kinect v1 x1
+- Bras Articulé Manofrotto (x1)
+  - Câbles ethernet (x2)
+  - Clamp (x1)
+  - Câbles d'alimentations (x1)
+  - Lumières infrarouges (x2)
 
-Bras Articulé Manofrotto x1
-Câbles ethernet x2
-Clamp x1
-Câbles d'alimentations x1
-Lumières infrarouges x2
+- Câbles d'alimentations (x2)
+  - Clamps (x2)
+  - Table (Largeur 1,52m / Profondeurs 0.76m / Hauteur 0.74m)
 
-Câbles d'alimentations x2
-Clamps x2
-Table (Largeur 1,52m / Profondeurs 0.76m / Hauteur 0.74m)
+- Clamps normal (x4)
 
-Clamps normal x4
+- Clamps (collés ensemble) (x2)
 
-Clamps (deux coller ensemble) x2
+- Poteaux (x3)
 
-Poteaux x3
+### [Source](https://ethereal-creators.github.io/Etheria/#/30_production/40_devis/)
 
 ## Expérience vécue 
 - Date de visite : 25 février 2025, 18 mars 2025
