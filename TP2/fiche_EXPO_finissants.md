@@ -203,8 +203,9 @@ Leur jeu en réalité augmentée englobe vraiment bien ce qu'on apprend dans nos
 
 Dans le projet CON DU8, une technique spéciale et intégrale à l'installation fut d'utiliser un capteur d'électricité pour mesurer la quantité et la vitesse à laquelle la roue du vélo tourne. Avec cette technique, l'équipe derrière le projet a pu calculer et utiliser la vitesse que l'utilisateur émettait en utilisant le vélo pour faire avancer le personnage principal de leur jeu. En d'autres mots, l'équipe calcule la quantité de "torque" que produit l'électricité.<br>
 
-En gros, quand la roue tourne, elle émet un courant électrique, qui est envoyé dans un moteur. Ce moteur est ensuite redirigé vers un micro-ordinateur qui calcule la puissance de ce courant électrique. Cette puissance est ensuite utilisée pour faire avancer le personnage dans le jeu, en avançant plus vite si la puissance de la roue est plus forte.
+En gros, quand la roue tourne, elle émet un courant électrique, qui est envoyé dans un moteur. Ce moteur est ensuite redirigé vers un voltmètre qui calcule la puissance de ce courant électrique et l'envoie vers l'ordinateur principal. Cette puissance est ensuite utilisée pour faire avancer le personnage dans le jeu, en avançant plus vite si la puissance de la roue est plus forte.
 
+[Pour en savoir plus](https://www.futek.com/Electric-Motor-Output-Power?srsltid=AfmBOopH_P73Lofbiy-UZMgy6SHeENaSLhyZCcozeaZbD_NzKlJBxXIr)
 ---
 
 <div id="prismatica">
