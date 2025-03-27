@@ -47,7 +47,8 @@ Au centre de l'installation :
 - Table
 - Pièces de jeu personalisées
 
-
+![prototype](./images/etheria/prototype_piece_de_jeu.jpg) | ![produit_final](./images/etheria/etheria_final_piece_de_jeu.jpg)
+:-------------------------:|:-------------------------:
 
 Les pièces de jeu avaient toutes un code QR placé au dessus de chacune d'entre elles. Cela permettait au capteur de détecter la rotation dans laquelle chaque pièce était, permettant de changer la direction du point de vue des personnages.
 
