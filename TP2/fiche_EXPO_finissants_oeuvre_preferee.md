@@ -24,10 +24,6 @@
 ## Description
 Etheria est un jeu de "Tower Defense" où le but du jeu est de défendre un crystal contre divers monstres et objets. Après 4 niveaux, le jeu prend fin si on a réussi à bien protéger ce crystal et un écran de victoire est montré. Durant la partie, plusieurs objets permettaient aux joueurs d'évoluer leur personnage respectif, si le joueur avec le bon personnage les ramassait. Si les joueurs n'arrivaient pas à défendre le crystal, le jeu prend fin et un écran de défaite était diffusé.
 
-
-
-*game imgs*
-
 - Type d'installation : interactive
 - Fonction du dispositif multimedia : scénographie
 
@@ -50,7 +46,7 @@ Au centre de l'installation :
 ![prototype](./images/etheria/prototype_piece_de_jeu.jpg) | ![produit_final](./images/etheria/etheria_final_piece_de_jeu.jpg)
 :-------------------------:|:-------------------------:
 
-Les pièces de jeu avaient toutes un code QR placé au dessus de chacune d'entre elles. Cela permettait au capteur de détecter la rotation dans laquelle chaque pièce était, permettant de changer la direction du point de vue des personnages.
+Les pièces de jeu avaient toutes un code QR placé au dessus de chacune d'entre elles et une flèche pointant dans une direction quelconque. Cela permettait au capteur de détecter la rotation dans laquelle chaque pièce était, permettant de changer la direction du point de vue des personnages.
 
 Au plafond : 
 - Projecteur
