@@ -17,7 +17,7 @@
 - Année de réalisation : 2025
 
 <p align="center">
-  <img src="./images/etheria/ehteria_equipe.jpg">
+  <img src="./images/etheria/etheria_equipe.jpg">
   <i>L'équipe des créateurs - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
