@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="./images/etheria/ehteria_vue_jeu_horizontal.jpg">
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
 ## Fiche technique
