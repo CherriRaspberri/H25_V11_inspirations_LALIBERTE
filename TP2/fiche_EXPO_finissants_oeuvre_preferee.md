@@ -38,11 +38,16 @@ Etheria est un jeu de "Tower Defense" où le but du jeu est de défendre un crys
 ## Composantes Techniques
 L'installation était composée d'une table en son centre, avec des visuels projetés sur cette table. En haut, un projecteur avec des hauts-parleurs diffusaient l'image du jeu et de la musique avec des effets de son, réagissant aux mouvements et diverses actions que les joueurs émettaient en jouant. Un capteur de mouvement était aussi utilisé pour capter les mouvements des joueurs et des pièces de jeu. En dessous de la table, des lumières et des feuilles ont été installées pour donner un aspect visuel attirant. 
 
+<p align="center">
+  <img src="./images/etheria/etheria_montage.jpg">
+  <i>Composantes techniques - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+
 Au centre de l'installation : 
 - Table
 - Pièces de jeu personalisées
 
-*game pieces go here*
+
 
 Les pièces de jeu avaient toutes un code QR placé au dessus de chacune d'entre elles. Cela permettait au capteur de détecter la rotation dans laquelle chaque pièce était, permettant de changer la direction du point de vue des personnages.
 
