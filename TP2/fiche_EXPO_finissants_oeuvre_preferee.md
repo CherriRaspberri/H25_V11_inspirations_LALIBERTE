@@ -5,7 +5,7 @@
   <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
 </p>
 
-[Vidéo explicative](https://www.youtube.com/watch?v=nwJlMtzI-8g)
+[Vidéo explicative](https://www.youtube.com/watch?v=nwJlMtzI-8g) <br>
 [Making-of Etheria](https://www.youtube.com/watch?v=MDbdMdqdUuc)
 
 ## Fiche technique
