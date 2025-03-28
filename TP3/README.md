@@ -1,1 +1,1 @@
-Documentation TP3 : Répositoire d'images et de documents.
+Documentation TP3 : Répositoire de dossiers et de fichiers.
