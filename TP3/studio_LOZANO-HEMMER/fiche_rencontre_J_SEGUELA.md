@@ -14,9 +14,11 @@ Durant la présentation, Jade nous a parlé de deux oeuvres en particulier :
 - [Sphere Packing : Bach](https://www.lozano-hemmer.com/sphere_packing_bach.php)
 - [Shadow Tuner](https://www.lozano-hemmer.com/shadow_tuner.php)
 
-Sphere Packing : Bach est une oeuvre physique et numérique 
+Sphere Packing : Bach est une oeuvre physique et numérique haute de trois mètres présentant une sphère, faite d'aluminium et de bois, avec en son centre un espace pouvant accueillir des gens. Avec 1 128 haut-parleurs, cette installation joue des morceaux de Johann Sebastian Bach, un artiste classique prodige. 
 
 *Source : [Sphere Packing : Bach](https://www.lozano-hemmer.com/sphere_packing_bach.php)*
+
+Shadow Tuner est une oeuvre physique installée à Abu Dhabi présentant un globe lumineux qui projette une image de la terre renversée. L'oeuvre a des caméras posées autour d'elle, qui permettent d'afficher sur la sphère ce que les caméras voyaient.
 
 *Source : [Shadow Tuner](https://www.lozano-hemmer.com/shadow_tuner.php)*
 
