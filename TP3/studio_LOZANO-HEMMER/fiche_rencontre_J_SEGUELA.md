@@ -23,7 +23,12 @@ Sphere Packing : Bach est une oeuvre physique et numérique haute de trois mètr
 
 *Source : [Sphere Packing : Bach](https://www.lozano-hemmer.com/sphere_packing_bach.php)*
 
-Shadow Tuner est une oeuvre physique installée à Abu Dhabi présentant un globe lumineux qui projette une image de la terre renversée. L'oeuvre a des caméras posées autour d'elle, qui permettent d'afficher sur la sphère ce que les caméras voyaient.
+Shadow Tuner est une oeuvre physique installée à Abu Dhabi présentant un globe lumineux qui projette une image de la terre renversée. L'oeuvre a des caméras posées autour d'elle, qui permettent d'afficher en forme d'ombres sur la sphère ce que les caméras voyaient. Ces mêmes ombres pouvaient atteindre jusqu'à 14 mètres.
+
+<p align="center">
+  <img src="../images/shadow_tuner.jpg" width="600px"><br>
+  <i>Photo tirée du site de l'atelier Lozano-Hemmer</i>
+</p>
 
 *Source : [Shadow Tuner](https://www.lozano-hemmer.com/shadow_tuner.php)*
 
