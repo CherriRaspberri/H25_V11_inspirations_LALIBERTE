@@ -1,6 +1,9 @@
-# title
+# Rafael Lozano-Hemmer: une rencontre avec Jade Seguela
 
-## introduction
+## Compte rendu de la rencontre
+
+Le 25 mars dernier, 
+
 qwerty
 
 ## developement
