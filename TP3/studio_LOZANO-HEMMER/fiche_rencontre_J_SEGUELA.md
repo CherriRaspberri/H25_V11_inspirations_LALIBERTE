@@ -2,6 +2,7 @@
 
 ## Compte rendu de la rencontre
 <br>
+
 ### introduction
 Le 25 mars dernier, Jade Seguela, une artiste travaillant pour l'atelier Lozano-Hemmer, nous a offert une conférence qui présentait deux oeuvres très intéressantes produites par Rafael Lozano-Hemmer et elle-même. 
 
