@@ -7,7 +7,7 @@ Le 25 mars dernier, Jade Seguela, une artiste travaillant pour l'atelier Lozano-
 
 Rafael Lozano-Hemmer, artiste Canadien, est reconnu à l'international pour ses oeuvres multimédia. Mêlant l'art, l'architecture, la technologie et la performance, ses installations sont proclamées mondialement et, dans ses mots, sont des "anti-monuments pour une agence alien".
 
-##### Source : [Biographie de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/bio.php)
+##### *Source : [Biographie de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/bio.php)*
 
 Durant la présentation, Jade nous a parlé de deux oeuvres en particulier : 
 - Sphere Packing : Bach
