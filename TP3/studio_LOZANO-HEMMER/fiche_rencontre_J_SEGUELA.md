@@ -11,7 +11,7 @@ Rafael Lozano-Hemmer, artiste Canadien, est reconnu à l'international pour ses 
 
 Durant la présentation, Jade nous a parlé de deux oeuvres en particulier : 
 - Sphere Packing : Bach
-- Shadow Tuner
+- [Shadow Tuner](https://www.lozano-hemmer.com/shadow_tuner.php)
 
 ## developement
 En plus de nous parler de son parcours professionnel, Jade nous a partagé comment elle a rencontré Rafael. 
