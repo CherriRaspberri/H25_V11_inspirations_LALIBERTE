@@ -9,12 +9,14 @@ Rafael Lozano-Hemmer, artiste Canadien, est reconnu à l'international pour ses 
 
 ##### *Source : [Biographie de Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/bio.php)*
 
+
+
+## developement
 Durant la présentation, Jade nous a parlé de deux oeuvres en particulier : 
 - [Sphere Packing : Bach](https://www.lozano-hemmer.com/sphere_packing_bach.php)
 - [Shadow Tuner](https://www.lozano-hemmer.com/shadow_tuner.php)
 
-## developement
 En plus de nous parler de son parcours professionnel, Jade nous a partagé comment elle a rencontré Rafael. 
 
-## conclusion
-Pour conclure, 
+### conclusion
+La conférence avec Jade Seguela nous a permis d'en apprendre plus sur un milieu artistique et technologique fascinant, créé par un artiste avec une vision du monde très hors du commun. Grâce à cela, nous avons pu voir et comprendre l'envers du décor de ses oeuvres captivantes.
