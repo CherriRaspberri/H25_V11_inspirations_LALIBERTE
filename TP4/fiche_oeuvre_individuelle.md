@@ -11,9 +11,11 @@ PLAN :
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
-Le 6 mars dernier, je suis allé 
+Le 6 mars dernier,
 
 ## L'exposition
+
+Plancton Cosmique est une exposition temporaire exposée à la Biosphère(link), située à Montréal. 
 
 ## Pour plus d'infos
 
