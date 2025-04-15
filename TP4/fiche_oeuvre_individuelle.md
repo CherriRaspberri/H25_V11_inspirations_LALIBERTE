@@ -6,12 +6,13 @@ PLAN :
 
 # EXPOSITION INDIVIDUELLE : PLANCTON COSMIQUE
 
+<!--Image d'ensemble-->
 <p align="center">
   <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
-Le 6 mars dernier, j'ai eu la chance d'aller explorer la biosphère, plus précisément l'exposition de Plancton Cosmique. 
+Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, plus précisément l'exposition de Plancton Cosmique. 
 
 ## L'exposition
 
