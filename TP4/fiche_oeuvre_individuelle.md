@@ -12,7 +12,7 @@ PLAN :
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
-Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, plus précisément l'exposition de Plancton Cosmique. 
+Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, ce qui m'a permis d'aller voir l'exposition Plancton Cosmique. 
 
 ## L'exposition
 
