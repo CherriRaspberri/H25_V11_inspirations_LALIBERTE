@@ -5,7 +5,6 @@ PLAN :
 - ressenti personnel
 
 # EXPOSITION INDIVIDUELLE : PLANCTON COSMIQUE
-
 <!--Image d'ensemble-->
 <p align="center">
   <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
@@ -15,12 +14,13 @@ PLAN :
 Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, ce qui m'a permis d'aller voir l'exposition Plancton Cosmique. 
 
 ## L'exposition
+Plancton Cosmique est une exposition centrée autour de l'infiniment petit et l'infiniment grand, en comparant les étoiles et les galaxies à des planctons.
 
-Plancton Cosmique est une exposition temporaire exposée à la [Biosphère](#), située à Montréal. Elle s'étend sur un étage et est plongée dans le noir, seulement éclairée par des écrans. 
+L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere), située à Montréal. Elle s'étend sur un étage et est plongée dans le noir, seulement éclairée par des écrans. 
 
 ## Pour plus d'infos
 
-## Fiche techniique
+## Fiche technique
 
 ## Ressenti personnel
 
