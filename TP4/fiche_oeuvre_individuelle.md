@@ -8,7 +8,7 @@ PLAN :
 # EXPOSITION INDIVIDUELLE : PLANCTON COSMIQUE
 
 <p align="center">
-  <img src="../images/img_biosphere_ensemble.jpg"><br>
+  <img src="./images/img_biosphere_ensemble.jpg"><br>
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
