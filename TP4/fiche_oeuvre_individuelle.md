@@ -11,12 +11,12 @@ PLAN :
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
-## L'EXPOSITION
+## L'exposition
 
-## POUR PLUS D'INFOS
+## Pour plus d'infos
 
-## FICHE TECHNIQUE
+## Fiche techniique
 
-## RESSENTI PERSONNEL
+## Ressenti personnel
 
-## CONCLUSION
+## Conclusion
