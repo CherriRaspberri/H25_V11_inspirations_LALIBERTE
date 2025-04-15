@@ -7,9 +7,9 @@ PLAN :
 
 # EXPOSITION INDIVIDUELLE : PLANCTON COSMIQUE
 
-<div style="center">
+<p align="center">
   <img src="../images/img_biosphere_ensemble.jpg">
-</div>
+</p>
 
 ## L'EXPOSITION
 
