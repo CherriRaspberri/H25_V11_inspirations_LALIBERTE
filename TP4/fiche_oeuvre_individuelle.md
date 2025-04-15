@@ -16,7 +16,7 @@ Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, plus préci
 
 ## L'exposition
 
-Plancton Cosmique est une exposition temporaire exposée à la Biosphère(link), située à Montréal. 
+Plancton Cosmique est une exposition temporaire exposée à la [Biosphère](#), située à Montréal. 
 
 ## Pour plus d'infos
 
