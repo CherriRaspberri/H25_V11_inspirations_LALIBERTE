@@ -16,7 +16,7 @@ Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, ce qui m'a 
 ## L'exposition
 Plancton Cosmique est une exposition centrée autour de l'infiniment petit et l'infiniment grand, en comparant les étoiles et les galaxies à des planctons.
 
-L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere), située à Montréal. Elle s'étend sur un étage et est plongée dans le noir, seulement éclairée par des écrans. 
+L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere), située à Montréal. Elle s'étend sur un étage et est sombre, seulement éclairée par des écrans et des lumières tamisées. 
 
 ## Pour plus d'infos
 
