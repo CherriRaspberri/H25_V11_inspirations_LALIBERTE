@@ -11,6 +11,8 @@ PLAN :
   <i>Olivier Laliberté - 06/03/2025</i>
 </p>
 
+Le 6 mars dernier, je suis allé 
+
 ## L'exposition
 
 ## Pour plus d'infos
