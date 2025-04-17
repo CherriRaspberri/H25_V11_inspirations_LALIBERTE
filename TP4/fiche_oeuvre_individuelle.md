@@ -16,7 +16,7 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
 
 <!--Images des bannières-->
 <p align="center">
-  <img src="./images/bannieres_escaliers.jpg" width="600px"><br>
+  <img src="./images/bannieres_escaliers.jpg" width="400px"><br>
   <i>Olivier Laliberté - Bannières - 06/03/2025</i>
 </p>
 
