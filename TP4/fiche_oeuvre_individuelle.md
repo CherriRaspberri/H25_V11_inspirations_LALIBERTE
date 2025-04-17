@@ -12,10 +12,12 @@ Plancton Cosmique est une exposition centrée autour de l'infiniment petit et l'
 
 L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere), située à Montréal. Elle s'étend sur un étage et est sombre, seulement éclairée par des écrans et des lumières tamisées. 
 
-Avant d'entrer dans la salle, de grandes bannières ornent la salle d'entrée. 
+Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle d'entrée.Sur ces bannières, les références et les noms des artistes ayant travaillé sur les oeuvres y sont indiqué.
+
+<!--Images des bannières x 2 (escaliers + my face)-->
 
 
-<!--Image d<ensemble de la salle-->
+<!--Image d'ensemble de la salle-->
 <p align="center">
   <img src="./images/#" width="600px"><br>
   <i>Olivier Laliberté - La salle - 06/03/2025</i>
