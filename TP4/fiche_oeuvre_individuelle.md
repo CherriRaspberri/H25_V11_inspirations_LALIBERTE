@@ -31,12 +31,14 @@ Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées s
 
 ## Les oeuvres
 <!-- Vue d'ensemble -> bullet list de toutes les installations -> ma preferee -->
-<!--Parle de toutes les installations, puis garde ta preferee pour la fin avec la fiche technique-->
-<!--Bullet list? ### sous titres + images -->
 L'exposition est composée de plusieurs installations, puisque l'oeuvre a été créé par un collectif d'artistes. <br>
 
 La plupart des installations sont exposées sur les murs, projetées à l'aide de projecteurs accrochés au plafond. Chaque installation utilise un dispositif multimédia différent, comme des hauts parleurs personalisés ou des écrans, par exemple.
 
+<!--Mur 1-->
+<!--Mur central (projection avec ecran tactile)-->
+<!--Mur 3-->
+<!--Mur du fond (gros ecran)-->
 
 ## Fiche technique
 <!--Fiche oeuvre preferee selon tp_tous_documentation-->
