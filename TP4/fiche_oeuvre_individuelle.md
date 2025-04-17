@@ -23,7 +23,7 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
   <i>Olivier Laliberté - La salle - 06/03/2025</i>
 </p>
 
-Quand on entre dans la salle de l'exposition, 
+Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre. 
 
 ## Pour plus d'infos
 <!-- Vue d'ensemble -> bullet list de toutes les installations -> ma preferee -->
