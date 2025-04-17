@@ -35,7 +35,7 @@ Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées s
 <!--Bullet list? ### sous titres + images -->
 L'exposition est composée de plusieurs installations, puisque l'oeuvre a été créé par un collectif d'artistes. <br>
 
-La plupart des installations sont exposées sur les murs, projetées à l'aide de projecteurs accrochés au plafond.
+La plupart des installations sont exposées sur les murs, projetées à l'aide de projecteurs accrochés au plafond. Chaque installation utilise un dispositif multimédia différent, comme des hauts parleurs personalisés ou des écrans, par exemple.
 
 
 ## Fiche technique
