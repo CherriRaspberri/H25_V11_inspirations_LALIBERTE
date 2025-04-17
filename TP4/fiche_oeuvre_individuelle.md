@@ -20,6 +20,7 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
 
 *Olivier Laliberté - Bannières et Moi - 06/03/2025*
 
+### La salle
 Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre, avec un grand écran projetant des images dans le fond de la salle. Des lumières illuminent les sièges et une atmosphère calme est présente.
 
 <!--Image d'entrée + ensemble de la salle-->
