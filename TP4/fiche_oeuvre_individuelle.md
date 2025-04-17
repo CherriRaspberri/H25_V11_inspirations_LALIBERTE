@@ -22,7 +22,7 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
 
 
 <!--Image d'ensemble de la salle-->
-![entrée](./images/entree_salle.jpg) | ![salle]()
+![entrée](./images/entree_salle.jpg) | ![salle](./images/salle_vue_ensemble.jpg)
 :-------------------------:|:-------------------------:
 
 
