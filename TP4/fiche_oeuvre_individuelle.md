@@ -15,7 +15,8 @@ L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere
 Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle d'entrée.Sur ces bannières, les références et les noms des artistes ayant travaillé sur les oeuvres y sont indiqué.
 
 <!--Images des bannières x 2 (escaliers + my face)-->
-
+![bannières](./images/bannieres_escaliers.jpg) | ![entrée](./images/entree_salle.jpg)
+:-------------------------:|:-------------------------:
 
 <!--Image d'ensemble de la salle-->
 <p align="center">
