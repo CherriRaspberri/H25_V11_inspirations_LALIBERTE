@@ -14,15 +14,18 @@ L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere
 
 Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle d'entrée.Sur ces bannières, les références et les noms des artistes ayant travaillé sur les oeuvres y sont indiqué.
 
-<!--Images des bannières x 2 (escaliers + my face)-->
-![bannières](./images/bannieres_escaliers.jpg) | ![entrée](./images/entree_salle.jpg)
-:-------------------------:|:-------------------------:
+<!--Images des bannières-->
+<p align="center">
+  <img src="./images/bannieres_escaliers.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Bannières - 06/03/2025</i>
+</p>
+
 
 <!--Image d'ensemble de la salle-->
-<p align="center">
-  <img src="./images/#" width="600px"><br>
-  <i>Olivier Laliberté - La salle - 06/03/2025</i>
-</p>
+![entrée](./images/entree_salle.jpg) | ![salle]()
+:-------------------------:|:-------------------------:
+
+
 
 Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre, avec un grand écran projetant des images dans le fond de la salle.
 
