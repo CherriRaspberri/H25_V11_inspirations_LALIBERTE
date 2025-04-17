@@ -20,14 +20,11 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
   <i>Olivier Laliberté - Bannières - 06/03/2025</i>
 </p>
 
+Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre, avec un grand écran projetant des images dans le fond de la salle.
 
 <!--Image d'ensemble de la salle-->
 ![entrée](./images/entree_salle.jpg) | ![salle](./images/salle_vue_ensemble.jpg)
 :-------------------------:|:-------------------------:
-
-
-
-Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre, avec un grand écran projetant des images dans le fond de la salle.
 
 ## Pour plus d'infos
 <!-- Vue d'ensemble -> bullet list de toutes les installations -> ma preferee -->
