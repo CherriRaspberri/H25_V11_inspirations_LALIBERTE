@@ -25,6 +25,7 @@ Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées s
 <!--Image d'entrée + ensemble de la salle-->
 ![entrée](./images/entree_salle.jpg) | ![salle](./images/salle_vue_ensemble.jpg)
 :-------------------------:|:-------------------------:
+*Olivier Laliberté - Entrée et salle - 06/03/2025*
 
 ## Les oeuvres
 <!-- Vue d'ensemble -> bullet list de toutes les installations -> ma preferee -->
