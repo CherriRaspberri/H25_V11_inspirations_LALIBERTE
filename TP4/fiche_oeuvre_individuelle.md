@@ -1,9 +1,3 @@
-PLAN : 
-- Exposition (presentation geenrale)
-- Visite de l'expo (selon les criteres tp_tous_documentation)
-- Recherches supplementaires
-- ressenti personnel
-
 # EXPOSITION INDIVIDUELLE : PLANCTON COSMIQUE
 <!--Image d'ensemble-->
 <p align="center">
@@ -17,6 +11,9 @@ Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, ce qui m'a 
 Plancton Cosmique est une exposition centrée autour de l'infiniment petit et l'infiniment grand, et qui représente ses points en comparant les étoiles et les galaxies à des planctons. 
 
 L'oeuvre est exposée à la [Biosphère](https://espacepourlavie.ca/en/biosphere), située à Montréal. Elle s'étend sur un étage et est sombre, seulement éclairée par des écrans et des lumières tamisées. 
+
+Avant d'entrer dans la salle, de grandes bannières ornent la salle d'entrée. 
+
 
 <!--Image d<ensemble de la salle-->
 <p align="center">
