@@ -46,7 +46,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
 
-J'ai particulièrement aimé l'installation principale, qui était l'écran au fond de la salle ainsi que les coussins en son centre. La valse des planctons et leur couleurs me faisait grandement penser à des constellations et des galaxies, ce qui, à mon avis, renforçait vraiment le message de l'oeuvre. Le fait qu'elle jouait en boucle apportait une très belle esthétique à la salle, vu que les couleurs des planctons reflétaient sur les autres oeuvres.
+J'ai particulièrement aimé l'installation principale, qui était l'écran au fond de la salle ainsi que les coussins en son centre. La valse des planctons et leur couleurs me faisait grandement penser à des constellations et des galaxies, ce qui, à mon avis, renforçait vraiment le message de l'oeuvre. Le fait qu'elle jouait en boucle apportait une très belle esthétique à la salle, vu que les couleurs des planctons reflétaient sur le plancher et les autres oeuvres.
 
 ## Conclusion
 
