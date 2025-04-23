@@ -48,10 +48,12 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
   <i>Olivier Laliberté - Arrangement de diatomées (suite) - 06/03/2025</i>
 </p>
 
-### Oeuvre 2 : 
+### Oeuvre 2 : Mémoire des abysses
 
 ![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
 :-------------------------:|:-------------------------:
+
+*Olivier Laliberté - Mémoire des abysses - 06/03/2025*
 
 <!--Mur central (projection avec ecran tactile)-->
 ### Oeuvre 3 : 
