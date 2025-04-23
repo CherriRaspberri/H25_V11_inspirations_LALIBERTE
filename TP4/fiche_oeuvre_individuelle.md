@@ -75,10 +75,10 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
-![installation](./images/circumpolaire_installation.jpg) | ![fiche_presentation](./images/circumpolaire_fiche_presentation.jpg)
+![installation](./images/circumpolaire_installation.jpg) | ![installation](./images/goutte_eau_installation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Une goutte d'océan et Circumpolaire + fiche de présentation - 06/03/2025*
+*Olivier Laliberté - Une goutte d'océan + Circumpolaire - 06/03/2025*
 
 ## Oeuvre préférée : Voyage vers l'horizon
 
