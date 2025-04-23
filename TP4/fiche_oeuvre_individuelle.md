@@ -59,21 +59,21 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
   <i>Olivier Laliberté - Mémoire des abysses (fiche présentation) - 06/03/2025</i>
 </p>
 
-<!--Mur central (projection avec ecran tactile)-->
-### Oeuvre 3 : 
-<!--Projection cercle avec ecran tactile-->
-
-<!--Mur 3-->
-### Oeuvre 4 : 
-<!--Haut parleur weird-->
+### Oeuvre 3 : Ballet du plancton
 
 
-### Oeuvre 5 :
-<!--Autre oeuvre...?-->
+
+### Oeuvre 4 : Mandala
 
 
-<!--Mur du fond-->
-## Oeuvre préférée : 
+
+### Oeuvre 5 : Une goutte d'océan et Circumpolaire
+
+
+
+## Oeuvre préférée : Voyage vers l'horizon
+
+
 
 ## Fiche technique
 <!--Fiche oeuvre preferee selon tp_tous_documentation-->
