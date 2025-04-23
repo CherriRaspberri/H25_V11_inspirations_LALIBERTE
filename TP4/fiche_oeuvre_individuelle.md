@@ -44,8 +44,8 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 *Olivier Laliberté - Arrangement de diatomées - 06/03/2025*
 
 <p align="center">
-  <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
-  <i>Olivier Laliberté - Biosphère - 06/03/2025</i>
+  <img src="./images/arrangement_diatomees_installation_suite.jpg"><br>
+  <i>Olivier Laliberté - Arrangement de diatomées (suite) - 06/03/2025</i>
 </p>
 
 ### Oeuvre 2 : 
