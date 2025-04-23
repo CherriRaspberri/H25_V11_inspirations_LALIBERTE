@@ -59,9 +59,12 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
   <i>Olivier Laliberté - Mémoire des abysses (fiche présentation) - 06/03/2025</i>
 </p>
 
-### Oeuvre 3 : Ballet du plancton
+### Oeuvre 3 : Ballet des plancton
 
-
+<p align="center">
+  <img src="./images/ballet_des_planctons_installation.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Ballet des planctons - 06/03/2025</i>
+</p>
 
 ### Oeuvre 4 : Mandala
 
