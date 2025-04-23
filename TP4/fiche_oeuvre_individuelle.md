@@ -41,14 +41,31 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ![installation](./images/arrangement_diatomees_installation.JPG) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-<!--Mur central (projection avec ecran tactile)-->
+*Olivier Laliberté - Arrangement de diatomées - 06/03/2025*
 
+<p align="center">
+  <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Biosphère - 06/03/2025</i>
+</p>
+
+### Oeuvre 2 : 
+<!--Scaphandre-->
+
+<!--Mur central (projection avec ecran tactile)-->
+### Oeuvre 3 : 
+<!--Projection cercle avec ecran tactile-->
 
 <!--Mur 3-->
+### Oeuvre 4 : 
+<!--Haut parleur weird-->
+
+
+### Oeuvre 5 :
+<!--Autre oeuvre...?-->
 
 
 <!--Mur du fond-->
-
+## Oeuvre préférée : 
 
 ## Fiche technique
 <!--Fiche oeuvre preferee selon tp_tous_documentation-->
