@@ -50,7 +50,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 2 : 
 
-![installation](./images/memoire_des_abysses_installation.JPG) | ![fiche_presentation](./images/memoire_des_abysses_installation_suite.jpg)
+![installation](./images/memoire_des_abysses_installation.JPG) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
 :-------------------------:|:-------------------------:
 
 <!--Mur central (projection avec ecran tactile)-->
