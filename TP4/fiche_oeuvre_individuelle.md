@@ -73,7 +73,8 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ## Oeuvre préférée : Voyage vers l'horizon
 
-
+![installation](./images/goutte_eau_installation.jpg) | ![fiche_presentation](./images/circumpolaire_installation.jpg)
+:-------------------------:|:-------------------------:
 
 ## Fiche technique
 <!--Fiche oeuvre preferee selon tp_tous_documentation-->
