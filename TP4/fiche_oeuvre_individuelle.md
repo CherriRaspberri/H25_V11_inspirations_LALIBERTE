@@ -68,14 +68,14 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 4 : Mandala
 
-![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
+![installation](./images/mandala_installation.jpg) | ![fiche_presentation](./images/mandala_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
 *Olivier Laliberté - Mandala + fiche de présentation - 06/03/2025*
 
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
-![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
+![installation](./images/circumpolaire_installation.jpg) | ![fiche_presentation](./images/circumpolaire_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
 *Olivier Laliberté - Une goutte d'océan et Circumpolaire + fiche de présentation - 06/03/2025*
