@@ -49,15 +49,10 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 2 : Mémoire des abysses
 
-![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
-:-------------------------:|:-------------------------:
+![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg) | ![fiche_presentation](./images/memoire_des_abysses_fiche_presentation.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Mémoire des abysses - 06/03/2025*
-
-<p align="center">
-  <img src="./images/memoire_des_abysses_fiche_presentation.jpg" width="200px"><br>
-  <i>Olivier Laliberté - Mémoire des abysses (fiche présentation) - 06/03/2025</i>
-</p>
+*Olivier Laliberté - Mémoire des abysses + fiche de présentation - 06/03/2025*
 
 ### Oeuvre 3 : Ballet des plancton
 
