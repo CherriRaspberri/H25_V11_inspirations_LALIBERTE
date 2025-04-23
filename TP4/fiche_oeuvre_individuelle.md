@@ -37,15 +37,11 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 1 : Arrangement de Diatomées
 
-![installation](./images/arrangement_diatomees_installation.JPG) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
+![installation](./images/arrangement_diatomees_installation_suite.jpg) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
 *Olivier Laliberté - Arrangement de diatomées + fiche de présentation - 06/03/2025*
 
-<p align="center">
-  <img src="./images/arrangement_diatomees_installation_suite.jpg"><br>
-  <i>Olivier Laliberté - Arrangement de diatomées (suite) - 06/03/2025</i>
-</p>
 
 ### Oeuvre 2 : Mémoire des abysses
 
