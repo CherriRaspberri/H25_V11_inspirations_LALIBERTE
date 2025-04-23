@@ -49,7 +49,9 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 </p>
 
 ### Oeuvre 2 : 
-<!--Scaphandre-->
+
+![installation](./images/memoire_des_abysses_installation.JPG) | ![fiche_presentation](./images/memoire_des_abysses_installation_suite.jpg)
+:-------------------------:|:-------------------------:
 
 <!--Mur central (projection avec ecran tactile)-->
 ### Oeuvre 3 : 
