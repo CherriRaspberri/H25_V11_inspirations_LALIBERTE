@@ -40,7 +40,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ![installation](./images/arrangement_diatomees_installation.JPG) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Arrangement de diatomées - 06/03/2025*
+*Olivier Laliberté - Arrangement de diatomées + fiche de présentation - 06/03/2025*
 
 <p align="center">
   <img src="./images/arrangement_diatomees_installation_suite.jpg"><br>
@@ -68,11 +68,17 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 ### Oeuvre 4 : Mandala
 
+![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
+:-------------------------:|:-------------------------:
 
+*Olivier Laliberté - Mandala + fiche de présentation - 06/03/2025*
 
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
+![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg)
+:-------------------------:|:-------------------------:
 
+*Olivier Laliberté - Une goutte d'océan et Circumpolaire + fiche de présentation - 06/03/2025*
 
 ## Oeuvre préférée : Voyage vers l'horizon
 
