@@ -55,6 +55,11 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 *Olivier Laliberté - Mémoire des abysses - 06/03/2025*
 
+<p align="center">
+  <img src="./images/memoire_des_abysses_fiche_presentation.jpg" width="200px"><br>
+  <i>Olivier Laliberté - Mémoire des abysses (fiche présentation) - 06/03/2025</i>
+</p>
+
 <!--Mur central (projection avec ecran tactile)-->
 ### Oeuvre 3 : 
 <!--Projection cercle avec ecran tactile-->
