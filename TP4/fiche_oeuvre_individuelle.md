@@ -38,7 +38,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 <!--Mur 1-->
 ### Oeuvre 1 : Arrangement de Diatomées
 
-![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg) | ![installation](./images/arrangement_diatomees_installation.JPG)
+![installation](./images/arrangement_diatomees_installation.JPG) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
 <!--Mur central (projection avec ecran tactile)-->
