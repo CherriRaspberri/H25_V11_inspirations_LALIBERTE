@@ -35,7 +35,6 @@ L'exposition est composée de plusieurs installations, puisque l'oeuvre a été 
 
 La plupart des installations sont exposées sur les murs, projetées à l'aide de projecteurs accrochés au plafond. Chaque installation utilise un dispositif multimédia différent, comme des hauts parleurs personalisés ou des écrans, par exemple.
 
-<!--Mur 1-->
 ### Oeuvre 1 : Arrangement de Diatomées
 
 ![installation](./images/arrangement_diatomees_installation.JPG) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
