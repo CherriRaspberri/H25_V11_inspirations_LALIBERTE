@@ -62,7 +62,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ### Oeuvre 3 : Ballet des plancton
 
 <p align="center">
-  <img src="./images/ballet_des_planctons_installation.jpg" width="1000px"><br>
+  <img src="./images/ballet_des_planctons_installation.jpg" width="800px"><br>
   <i>Olivier Laliberté - Ballet des planctons - 06/03/2025</i>
 </p>
 
