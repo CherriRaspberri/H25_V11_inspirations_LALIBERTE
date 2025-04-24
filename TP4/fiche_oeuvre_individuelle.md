@@ -58,11 +58,11 @@ Arrangement de Diatomées est un ensemble de hublots regroupant des photos d'ét
 Mémoire des abysses est composé d'une installation principale ainsi qu'une installation secondaire. L'installation principale contient un scaphandre avec des hublots qui nous permet de regarder à l'intérieur. L'installation secondaire est une projection qui est affichée sur le mur et refletée dans le scaphandre. Quand on regarde dans les hublots, on peut y voir la projection.
 
 
-### Oeuvre 3 : Ballet des planctons
+### Oeuvre 3 : Ballet du plancton
 
 <p align="center">
   <img src="./images/ballet_des_planctons_installation.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Ballet des planctons - 06/03/2025</i>
+  <i>Olivier Laliberté - Ballet du plancton - 06/03/2025</i>
 </p>
 
 - Créé par : 
