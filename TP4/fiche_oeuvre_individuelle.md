@@ -78,7 +78,7 @@ Ballet du Plancton est, selon moi, l'installation principale de l'exposition. É
 
 - Créé par : Noé Sardet
 
-Mandala est une installation visuelle qui montre un ensemble de planctons placés de manière ordonnée. Un aspect intéressant de cette oeuvre est sa taille : malgré que l'installation est grande, la photo originale mesure moins de 1mm; 
+Mandala est une installation visuelle qui montre un ensemble de planctons placés de manière ordonnée. L'oeuvre est visuelle, vu qu'on y montre uniquement une photo du Mandala.  
 
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
