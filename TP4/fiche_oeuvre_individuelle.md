@@ -60,11 +60,6 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 
 ### Oeuvre 3 : Ballet du plancton
 
-<p align="center">
-  <img src="./images/ballet_des_planctons_installation.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Ballet du plancton - 06/03/2025</i>
-</p>
-
 ![installation](./images/ballet_des_planctons_installation.jpg) | ![fiche_presentation](./images/ballet_des_planctons_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
