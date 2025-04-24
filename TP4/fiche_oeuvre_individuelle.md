@@ -65,6 +65,8 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 
 - Créé par : François Guinaudeau, Noé Sardet, Evantlas Chaudat
 
+Ballet du Plancton est, selon moi, l'installation principale de l'exposition. Étant composée d'un grand écran et de projecteurs, l'installation fait défiler une vidéo montrant des planctons colorés plus ou moins gros qui passent et s'en vont. De plus, en plein milieu de la salle, des coussins sont installés, ce qui permet aux visiteurs de s'asseoir et apprécier l'installation.
+
 ### Oeuvre 4 : Mandala
 
 ![installation](./images/mandala_installation.jpg) | ![fiche_presentation](./images/mandala_fiche_presentation.jpg)
