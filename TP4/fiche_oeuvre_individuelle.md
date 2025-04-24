@@ -63,7 +63,7 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 ![installation](./images/ballet_des_planctons_installation.jpg) | ![fiche_presentation](./images/ballet_des_planctons_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-- Créé par : 
+- Créé par : François Guinaudeau, Noé Sardet, Enventlas Chaudat
 
 ### Oeuvre 4 : Mandala
 
