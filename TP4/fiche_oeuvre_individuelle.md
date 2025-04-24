@@ -76,7 +76,7 @@ Ballet du Plancton est, selon moi, l'installation principale de l'exposition. É
 
 *Olivier Laliberté - Mandala + fiche de présentation - 06/03/2025*
 
-- Créé par : 
+- Créé par : Noé Sardet
 
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
