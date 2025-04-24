@@ -53,6 +53,11 @@ Arrangement de Diatomées est un ensemble de hublots regroupant des photos d'ét
 
 *Olivier Laliberté - Mémoire des abysses + fiche de présentation - 06/03/2025*
 
+- Créé par :
+
+Mémoire des abysses est composé d'une installation principale ainsi qu'une installation secondaire. L'installation principale contient un scaphandre avec des hublots qui nous permet de regarder à l'intérieur. 
+
+
 ### Oeuvre 3 : Ballet des plancton
 
 <p align="center">
