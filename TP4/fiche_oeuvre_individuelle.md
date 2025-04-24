@@ -83,6 +83,10 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 
 *Olivier Laliberté - Une goutte d'océan + Circumpolaire + fiche de présentation - 06/03/2025*
 
+- Créé par :
+
+Une goutte d'océan et Circumpolaire est une installation qui contient deux affiches circulaires. La première affiche est composée d'un ensemble de planctons arrangés, tandis que la deuxième est composée d'un ciel étoilé. On peut comprendre que l'installation démontre les ressemblances entre les planctons et les étoiles.
+
 ## Oeuvre préférée : Voyage vers l'horizon
 
 ![installation](./images/voyage_horizon_installation.jpg) | ![fiche_presentation](./images/voyage_horizon_fiche_presentation.jpg)
