@@ -42,7 +42,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 *Olivier Laliberté - Arrangement de diatomées + fiche de présentation - 06/03/2025*
 
-- Créé par :
+- Créé par : Jan Rosenboom
 
 Arrangement de Diatomées est un ensemble de hublots regroupant des photos d'étoiles et de planctons, arrangés pour ressembler à des galaxies. Une petite pancarte placée proche de l'oeuvre indique que l'oeuvre n'est pas interactive, mais bien visuelle.
 
