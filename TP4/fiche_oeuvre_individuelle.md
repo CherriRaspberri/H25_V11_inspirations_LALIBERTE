@@ -78,10 +78,17 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 
 *Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
 
+<p align="center">
+  <img src="./images/voyage_horizon_essai.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Essai de l'oeuvre - 06/03/2025</i>
+</p>
+
 ## Fiche technique
 
 ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![projecteur](./images/voyage_horizon_projecteur.jpg)
 :-------------------------:|:-------------------------:
+
+
 
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
