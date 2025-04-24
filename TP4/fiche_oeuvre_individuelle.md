@@ -118,6 +118,6 @@ J'ai particulièrement aimé l'installation principale, Valse de Planctons, qui 
 De plus, j'ai adoré utiliser les hauts-parleurs en dôme pour l'oeuvre Voyage vers l'Horizon. Étant fan d'audio, le fait qu'on entend le son uniquement lorsqu'on est en dessous du dôme m'a vraiment impressionné.
 
 ## Conclusion
-
+Plancton Cosmique a été 
 
 ## Sources 
