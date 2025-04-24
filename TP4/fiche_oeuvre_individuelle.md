@@ -96,7 +96,9 @@ Arrangement de Diatomées est un ensemble de hublots regroupant des photos d'ét
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
 
-J'ai particulièrement aimé l'installation principale, qui était l'écran au fond de la salle ainsi que les coussins en son centre. La valse des planctons et leur couleurs me faisait grandement penser à des constellations et des galaxies, ce qui, à mon avis, renforçait vraiment le message de l'oeuvre. Le fait qu'elle jouait en boucle apportait une très belle esthétique à la salle, vu que les couleurs des planctons reflétaient sur le plancher et les autres oeuvres.
+J'ai particulièrement aimé l'installation principale, Valse de Planctons, qui était l'écran au fond de la salle ainsi que les coussins en son centre. La valse des planctons et leur couleurs me faisait grandement penser à des constellations et des galaxies, ce qui, à mon avis, renforçait vraiment le message de l'oeuvre. Le fait qu'elle jouait en boucle apportait une très belle esthétique à la salle, vu que les couleurs des planctons reflétaient sur le plancher et les autres oeuvres.
+
+De plus, j'ai adoré utiliser les hauts-parleurs en dôme pour l'oeuvre Voyage vers l'Horizon. Étant fan d'audio, le fait qu'on entend le son uniquement lorsqu'on est en dessous du dôme m'a vraiment impressionné.
 
 ## Conclusion
 
