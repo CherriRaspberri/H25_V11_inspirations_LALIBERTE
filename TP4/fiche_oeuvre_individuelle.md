@@ -74,6 +74,8 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 
 *Olivier Laliberté - Mandala + fiche de présentation - 06/03/2025*
 
+- Créé par : 
+
 ### Oeuvre 5 : Une goutte d'océan et Circumpolaire
 
 ![installation](./images/goutte_eau_installation.jpg) | ![installation](./images/circumpolaire_installation.jpg) | ![installation](./images/circumpolaire_fiche_presentation.jpg)
