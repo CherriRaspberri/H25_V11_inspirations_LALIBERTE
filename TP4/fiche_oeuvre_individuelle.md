@@ -63,6 +63,8 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 ![installation](./images/ballet_des_planctons_installation.jpg) | ![fiche_presentation](./images/ballet_des_planctons_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
+*Olivier Laliberté - Ballet du Plancton + fiche de présentation - 06/03/2025*
+
 - Créé par : François Guinaudeau, Noé Sardet, Evantlas Chaudat
 
 Ballet du Plancton est, selon moi, l'installation principale de l'exposition. Étant composée d'un grand écran et de projecteurs, l'installation fait défiler une vidéo montrant des planctons colorés plus ou moins gros qui passent et s'en vont. De plus, en plein milieu de la salle, des coussins sont installés, ce qui permet aux visiteurs de s'asseoir et apprécier l'installation.
