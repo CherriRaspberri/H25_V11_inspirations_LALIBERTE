@@ -76,6 +76,8 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ![installation](./images/voyage_horizon_installation.jpg) | ![fiche_presentation](./images/voyage_horizon_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
+*Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
+
 ## Fiche technique
 <!--Fiche oeuvre preferee selon tp_tous_documentation-->
 
