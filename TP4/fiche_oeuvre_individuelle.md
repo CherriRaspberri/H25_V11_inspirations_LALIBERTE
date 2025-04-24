@@ -91,12 +91,18 @@ Mandala est une installation visuelle qui montre un ensemble de planctons placé
 
 Une goutte d'océan et Circumpolaire est une installation qui contient deux affiches circulaires. La première affiche est composée d'un ensemble de planctons arrangés, tandis que la deuxième est composée d'un ciel étoilé. On peut comprendre que l'installation démontre les ressemblances entre les planctons et les étoiles.
 
+
+
 ## Oeuvre préférée : Voyage vers l'horizon
 
 ![installation](./images/voyage_horizon_installation.jpg) | ![fiche_presentation](./images/voyage_horizon_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
 *Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
+
+<!--Résumé présentation?-->
+
+
 
 <p align="center">
   <img src="./images/voyage_horizon_essai.jpg" width="600px"><br>
