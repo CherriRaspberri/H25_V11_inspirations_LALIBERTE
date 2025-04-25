@@ -1,12 +1,27 @@
-PLAN : 
-- Objectif de la communication
-- Aspects abordes
+# PLAN : 
+### Objectif de la communication
+- Nom de l'oeuvre : Plancton Cosmique
+- Collectif d'artistes : Les Macronautes
+- Lieu visité : Biosphère
 
+### Aspects abordés
+- La salle (expérience, ressenti)
+Grande, obsucre, apaisante
+- Liste d'oeuvres
+Oeuvres murales, écran central avec sièges
+- Oeuvre préférée
 
-- Infos sur l'oeuvre et le lieu d'exposition
-- Presentation detaillee de l'oeuvre
-- Experience vecue
+- Infos sur les oeuvres et le lieu d'exposition
+
+### Présentation détaillée de l'oeuvre choisie
+- Le documentaire en tant que tel
+- Composantes (projecteur, haut-parleur)
+- Expérience vécue
+
 - Critique
+Ce qui m'a plu : Haut-parleur, audio
+Ce que j'améliorerais : La distance entre l'audio et le visuel
+
 - Liens avec d'autres oeuvres
 
 
