@@ -91,8 +91,6 @@ Mandala est une installation visuelle qui montre un ensemble de planctons placé
 
 Une goutte d'océan et Circumpolaire est une installation qui contient deux affiches circulaires. La première affiche est composée d'un ensemble de planctons arrangés, tandis que la deuxième est composée d'un ciel étoilé. On peut comprendre que l'installation démontre les ressemblances entre les planctons et les étoiles.
 
-
-
 ## Oeuvre préférée : Voyage vers l'horizon
 
 ![installation](./images/voyage_horizon_installation.jpg) | ![fiche_presentation](./images/voyage_horizon_fiche_presentation.jpg)
@@ -100,17 +98,22 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 
 *Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
 
-### Créé par : François Guinaudeau
-### Année de réalisation : 2024
+- Créé par : François Guinaudeau
+- Année de réalisation : 2024
 
 Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. Le documentaire est filmé avec une caméra en prise de vue 360, ce qui le rend sphérique, le liant aux autres oeuvres. 
 
 ## Fiche technique
 
+- Type d'installation : contemplative
+- Fonction du dispositif : diffusion
 
-### Type d'installation :
-### Fonction du dispositif :
-### Mise en espace :
+### Mise en espace : 
+
+<p align="center">
+  <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Mise en espace</i>
+</p>
 
 ### Composantes :
 
@@ -124,8 +127,16 @@ L'oeuvre est composée d'un projecteur qui affiche une image sur un écran circu
 ### Éléments nécéssaires :
 
 Fourni par les artistes : 
-- Man
-- fefe
+- Documentaire (4m55s)
+
+Fourni par l'intervenant :
+- Projecteur
+- Écran mural
+- Haut-parleur
+- Dôme
+- Câble HDMI
+- Câbles audio
+- Câbles d'alimentation
 
 ### Ce qui m'a plu :
 
