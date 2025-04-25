@@ -33,6 +33,12 @@ L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs acc
 - Type d'installation : immersive
 - Mise en espace :
 - Composantes :
+
+<p align="center">
+  <img src="./images/composantes.jpg" width="800px"><br>
+  <i>Olivier Laliberté - Ravel Ravel Interval (composantes) - 04/04/2025</i>
+</p>
+
 - Éléments nécessaires :
 <hr>
 
