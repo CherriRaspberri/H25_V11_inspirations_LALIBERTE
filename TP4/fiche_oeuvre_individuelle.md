@@ -114,7 +114,7 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 
 ### Composantes :
 
-- ![projecteur](./images/voyage_horizon_projecteur.jpg) | ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
+![projecteur](./images/voyage_horizon_projecteur.jpg) | ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
 *Olivier Laliberté - Composantes + essai de l'oeuvre - 06/03/2025*
