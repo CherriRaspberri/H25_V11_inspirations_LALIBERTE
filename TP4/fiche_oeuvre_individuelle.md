@@ -105,12 +105,6 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 
 Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. Le documentaire est filmé avec une caméra en prise de vue 360, ce qui le rend sphérique, le liant aux autres oeuvres. 
 
-
-<p align="center">
-  <img src="./images/voyage_horizon_essai.jpg" width="600px"><br>
-  <i>Olivier Laliberté - Essai de l'oeuvre - 06/03/2025</i>
-</p>
-
 ## Fiche technique
 
 
@@ -126,10 +120,10 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 
 - Ce qui peut être amélioré :
 
-![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![projecteur](./images/voyage_horizon_projecteur.jpg)
-:-------------------------:|:-------------------------:
+![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![projecteur](./images/voyage_horizon_projecteur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
 
-
+*Olivier Laliberté - Composantes techniques + essai de l'oeuvre - 06/03/2025*
 
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
@@ -139,6 +133,11 @@ J'ai particulièrement aimé l'installation principale, Valse de Planctons, qui 
 De plus, j'ai adoré utiliser les hauts-parleurs en dôme pour l'oeuvre Voyage vers l'Horizon. Étant fan d'audio, le fait qu'on entend le son uniquement lorsqu'on est en dessous du dôme m'a vraiment impressionné.
 
 ## Conclusion
-Plancton Cosmique a été 
+Plancton Cosmique a été une expérience très enrichissante. L'équipe des macronautes ont réussi à représenter un thème intriguant et peu connu sous un angle très spécial en reliant l'univers du tout-petit à notre univers actuel. La biosphère parviendra toujours à émerveiller l'ensprit scientifique des petits et grands à travers l'art.
 
 ## Sources 
+
+<p align="center">
+  <img src="./images/voyage_horizon_essai.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Sources - 06/03/2025</i>
+</p>
