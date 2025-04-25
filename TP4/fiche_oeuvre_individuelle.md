@@ -125,7 +125,6 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 L'oeuvre est composée d'un projecteur qui affiche une image sur un écran circulaire, ainsi qu'un haut-parleur spécial en forme de dôme.
 
 ### Éléments nécéssaires :
-
 Fourni par les artistes : 
 - Documentaire (4m55s)
 
@@ -139,10 +138,10 @@ Fourni par l'intervenant :
 - Câbles d'alimentation
 
 ### Ce qui m'a plu :
+J'ai particulièrement aimé l'audio de l'installation, ou plus précisément la manière dont on a pu écouter l'oeuvre. Le fait que l'on peut uniquement entendre le son du documentaire lorsqu'on s'arrête en dessous du dôme est vraiment ingénieux et original.
 
 ### Ce qui peut être amélioré :
-
-
+J'ai trouvé que la projection était un peu loin du haut-parleur. Je suggère de rapprocher l'audio du visuel pour une prochaine fois.
 
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
@@ -155,7 +154,6 @@ De plus, j'ai adoré utiliser les hauts-parleurs en dôme pour l'oeuvre Voyage v
 Plancton Cosmique a été une expérience très enrichissante. L'équipe des macronautes ont réussi à représenter un thème intriguant et peu connu sous un angle très spécial en reliant l'univers du tout-petit à notre univers actuel. La biosphère parviendra toujours à émerveiller l'ensprit scientifique des petits et grands à travers l'art.
 
 ## Sources 
-
 <p align="center">
   <img src="./images/sources_vue_ensemble.jpg" width="600px"><br>
   <i>Olivier Laliberté - Sources - 06/03/2025</i>
