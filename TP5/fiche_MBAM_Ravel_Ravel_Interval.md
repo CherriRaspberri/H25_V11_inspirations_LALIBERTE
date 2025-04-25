@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./images/installation_vue_ensemble_suite.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Ravel Ravel Interval (vue d'ensemble) - 04/04/2025</i>
+  <i>Ravel Ravel Interval (vue d'ensemble) - Olivier Laliberté - 04/04/2025</i>
 </p>
 
 Le 4 Avril 2025, nous avons eu la chance d'aller au Musée des Beaux-Arts de Montréal pour aller voir l'oeuvre de Anri Sala, apellée Ravel Ravel Interval. <br> 
@@ -15,7 +15,7 @@ L'oeuvre représente deux pianistes interprétant une musique composée par un p
 
 <p align="center">
   <img src="./images/affiche_presentation.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Fiche de présentation - 04/04/2025</i>
+  <i>Fiche de présentation - Olivier Laliberté - 04/04/2025</i>
 </p>
 
 - Nom de l'exposition : Anri Sala
@@ -34,13 +34,13 @@ L'oeuvre représente deux pianistes interprétant une musique composée par un p
 
 <p align="center">
   <img src="./images/mise_en_espace.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Mise en espace</i>
+  <i>Mise en espace - Olivier Laliberté</i>
 </p>
   
 ### Composantes :
 <p align="center">
   <img src="./images/composantes.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Ravel Ravel Interval (composantes) - 04/04/2025</i>
+  <i>Ravel Ravel Interval (composantes) - Olivier Laliberté - 04/04/2025</i>
 </p>
 
 L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs accrochés au plafond qui font l'ensemble de la salle. Deux projecteurs sont utilisés pour afficher une vidéo sur ces écrans. Des panneaux bloquant le son sont accrochés tout le long des murs et au plafond. Au fond de la salle, deux bancs sont installés.
@@ -61,7 +61,7 @@ Fournis par l'intervenant :
 
 <p align="center">
   <img src="./images/installation_vue_ensemble.jpg" width="800px"><br>
-  <i>Olivier Laliberté - Ravel Ravel Interval (vue d'ensemble - suite) - 04/04/2025</i>
+  <i>Ravel Ravel Interval (vue d'ensemble - suite) - Olivier Laliberté - 04/04/2025</i>
 </p>
 
 ### Expérience vécue : 
@@ -78,4 +78,4 @@ Le fait que la salle n'ait pas beaucoup de bancs pour s'asseoir et écouter l'oe
 ![remerciements](./images/affiche_remerciements.jpg) | ![sources_suite](./images/affiche_sources.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Remerciements + Sources - 04/04/2025*
+*Remerciements + Sources - Olivier Laliberté - 04/04/2025*
