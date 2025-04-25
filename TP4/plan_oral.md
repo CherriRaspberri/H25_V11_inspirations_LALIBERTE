@@ -1,4 +1,4 @@
-# PLAN : 
+# PLAN ORAL : 
 ### Objectif de la communication
 - Nom de l'oeuvre : Plancton Cosmique
 - Collectif d'artistes : Les Macronautes
