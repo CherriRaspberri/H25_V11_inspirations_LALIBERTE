@@ -32,6 +32,7 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 - Mise en espace :
 - Composantes :
 - Éléments nécessaires :
+<hr>
 
 - Expérience vécue : <br>
 En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les deux écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance du pianiste compositeur quant à sa perte de sa main. 
