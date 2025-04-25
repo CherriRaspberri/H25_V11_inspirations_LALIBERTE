@@ -5,13 +5,13 @@
 - Lieu visité : Biosphère
 
 ### Aspects abordés
-- La salle (expérience, ressenti)
+- La salle (expérience, ressenti) <br> 
 Grande, obsucre, apaisante
-- Liste d'oeuvres
+- Liste d'oeuvres <br>
 Oeuvres murales, écran central avec sièges
-- Oeuvre préférée
+- Oeuvre préférée <br>
 Voyage vers l'horizon
-- Infos sur les oeuvres et le lieu d'exposition
+- Infos sur les oeuvres et le lieu d'exposition <br>
 
 ### Présentation détaillée de l'oeuvre choisie
 - Le documentaire en tant que tel
