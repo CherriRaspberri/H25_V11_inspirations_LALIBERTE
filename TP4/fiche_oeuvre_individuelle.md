@@ -111,7 +111,7 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 ### Mise en espace : 
 
 <p align="center">
-  <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
+  <img src="./images/mise_en_espace.jpg" width="600px"><br>
   <i>Olivier Laliberté - Mise en espace</i>
 </p>
 
@@ -157,6 +157,6 @@ Plancton Cosmique a été une expérience très enrichissante. L'équipe des mac
 ## Sources 
 
 <p align="center">
-  <img src="./images/voyage_horizon_essai.jpg" width="600px"><br>
+  <img src="./images/sources_vue_ensemble.jpg" width="600px"><br>
   <i>Olivier Laliberté - Sources - 06/03/2025</i>
 </p>
