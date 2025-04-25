@@ -25,21 +25,25 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 - Titre de l'oeuvre choisie : Ravel Ravel Interval
 - Nom de l'artiste : Anri Sala
 - Année de réalisation : 2017
+- Type d'installation : immersive
 <hr>
 
 - Description de l'oeuvre : <br>
-L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs accrochés au plafond qui font l'ensemble de la salle. Deux projecteurs sont utilisés pour afficher une vidéo sur ces écrans. Des panneaux bloquant le son sont accrochés tout le long des murs et au plafond.
+L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs accrochés au plafond qui font l'ensemble de la salle. Deux projecteurs sont utilisés pour afficher une vidéo sur ces écrans. Des panneaux bloquant le son sont accrochés tout le long des murs et au plafond. Au fond de la salle, deux bancs sont installés.
 
-- Type d'installation : immersive
+
 - Mise en espace :
-- Composantes :
 
+  
+- Composantes :
 <p align="center">
   <img src="./images/composantes.jpg" width="800px"><br>
   <i>Olivier Laliberté - Ravel Ravel Interval (composantes) - 04/04/2025</i>
 </p>
 
 - Éléments nécessaires :
+
+
 <hr>
 
 <p align="center">
