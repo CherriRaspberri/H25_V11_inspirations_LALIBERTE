@@ -16,8 +16,10 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
   <i>Olivier Laliberté - Fiche de présentation - 04/04/2025</i>
 </p>
 
-- Nom de l'exposition :
+- Nom de l'exposition : 
 - Lieu de mise en exposition : [Musée des Beaux-Arts de Montréal](https://www.mbam.qc.ca/en/)
+
+
 - Type d'expo : Temporaire intérieure
 - Date de visite :
 - Titre de l'oeuvre choisie :
