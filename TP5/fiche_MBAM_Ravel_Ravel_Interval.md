@@ -7,7 +7,7 @@
 
 Le 4 Avril 2025, nous avons eu la chance d'aller au Musée des Beaux-Arts de Montréal pour aller voir l'oeuvre de Anri Sala, apellée Ravel Ravel Interval. <br> 
 
-L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son tout le long des murs et au plafond. Elle présente une vidéo musicale séparée en trois écrans. La vidéo montre des mains jouant du piano, et pouvait être entendue dans toute la salle. 
+L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son tout le long des murs et au plafond. Elle présente une vidéo musicale séparée en deux écrans. La vidéo montre des mains jouant du piano, et pouvait être entendue dans toute la salle. 
 
 ## Fiche technique
 
@@ -34,6 +34,13 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 - Éléments nécessaires :
 
 - Expérience vécue : <br>
-En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les trois écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance de l'artiste quant à sa perte de sa main. 
+En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les deux écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance du pianiste compositeur quant à sa perte de sa main. 
 
 - Ce qui m'a plu :
+
+## Sources
+
+<p align="center">
+  <img src="./images/affiche_sources.jpg" width="800px"><br>
+  <i>Olivier Laliberté - Sources - 04/04/2025</i>
+</p>
