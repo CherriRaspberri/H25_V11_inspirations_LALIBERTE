@@ -6,12 +6,13 @@
 
 ### Aspects abordés
 - La salle (expérience, ressenti) <br> 
-Grande, obsucre, apaisante
+*Grande, obsucre, apaisante*
 - Liste d'oeuvres <br>
-Oeuvres murales, écran central avec sièges
+*Oeuvres murales, écran central avec sièges*
 - Oeuvre préférée <br>
-Voyage vers l'horizon
+*Voyage vers l'horizon*
 - Infos sur les oeuvres et le lieu d'exposition <br>
+**
 
 ### Présentation détaillée de l'oeuvre choisie
 - Le documentaire en tant que tel
@@ -23,7 +24,11 @@ Ce qui m'a plu : Haut-parleur, audio
 Ce que j'améliorerais : La distance entre l'audio et le visuel
 
 - Liens avec d'autres oeuvres
+*Sujet, étoiles*
 
+### Rappel
+- Nom de l'oeuvre : Plancton Cosmique
+- Collectif d'artistes : Les Macronautes
+- Lieu visité : Biosphère
 
-- Rappel
-- Ouverture
+### Ouverture
