@@ -18,7 +18,7 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 
 - Nom de l'exposition : 
 - Lieu de mise en exposition : [Musée des Beaux-Arts de Montréal](https://www.mbam.qc.ca/en/)
-<br>
+<hr>
 
 - Type d'expo : Temporaire intérieure
 - Date de visite :
