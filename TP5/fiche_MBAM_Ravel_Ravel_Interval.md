@@ -52,7 +52,7 @@ Fournis par l'artiste :
 
 Fournis par l'intervenant :
 - Salle
-- Panneaux bloquant le son (murs + plafond)
+- Panneaux insonorisants (murs + plafond)
 - Écrans (x2)
 - Haut-parleurs (x14)
 - Bancs (x2)
