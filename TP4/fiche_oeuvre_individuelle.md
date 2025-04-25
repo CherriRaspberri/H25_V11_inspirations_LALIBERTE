@@ -124,7 +124,8 @@ L'oeuvre est composée d'un projecteur qui affiche une image sur un écran circu
 ### Éléments nécéssaires :
 
 Fourni par les artistes : 
-- 
+- Man
+- fefe
 
 ### Ce qui m'a plu :
 
