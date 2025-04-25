@@ -16,7 +16,7 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
   <i>Olivier Laliberté - Fiche de présentation - 04/04/2025</i>
 </p>
 
-- Nom de l'exposition : 
+- Nom de l'exposition : Anri Sala
 - Lieu de mise en exposition : [Musée des Beaux-Arts de Montréal](https://www.mbam.qc.ca/en/)
 - Type d'expo : Temporaire intérieure
 - Date de visite : 04/04/2025
@@ -28,10 +28,12 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 <hr>
 
 - Description de l'oeuvre :
-- Description de l'oeuvre :
 - Type d'installation : immersive
 - Mise en espace :
 - Composantes :
 - Éléments nécessaires :
-- Expérience vécue :
+
+- Expérience vécue : <br>
+En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les trois écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance de l'artiste quant à sa perte de sa main. 
+
 - Ce qui m'a plu :
