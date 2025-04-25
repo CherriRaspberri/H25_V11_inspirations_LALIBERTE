@@ -40,4 +40,7 @@ En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance 
 
 ## Sources
 
+![remerciements](./images/affiche_remerciements.jpg) | ![sources_suite](./images/affiche_sources.jpg)
+:-------------------------:|:-------------------------:
 
+*Olivier Laliberté - Remerciements + Sources - 04/04/2025*
