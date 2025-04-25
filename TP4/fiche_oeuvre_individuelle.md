@@ -103,7 +103,7 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 - Créé par :
 - Année de réalisation :
 
-Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spéciale en dôme 
+Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. 
 
 
 <p align="center">
