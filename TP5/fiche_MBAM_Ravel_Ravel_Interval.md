@@ -7,7 +7,9 @@
 
 Le 4 Avril 2025, nous avons eu la chance d'aller au Musée des Beaux-Arts de Montréal pour aller voir l'oeuvre de Anri Sala, apellée Ravel Ravel Interval. <br> 
 
-L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son tout le long des murs et au plafond. Elle présente une vidéo musicale séparée en deux écrans. La vidéo montre des mains jouant du piano, et pouvait être entendue dans toute la salle. 
+L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son tout le long des murs et au plafond. Elle présente une vidéo musicale séparée en deux écrans. La vidéo montre des mains jouant du piano, et pouvait être entendue dans toute la salle. <br>
+
+L'oeuvre représente deux pianistes interprétant une musique composée par un pianiste ayant perdu l'usage de son bras droit.
 
 ## Fiche technique
 
@@ -41,8 +43,13 @@ L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs acc
   <i>Olivier Laliberté - Ravel Ravel Interval (composantes) - 04/04/2025</i>
 </p>
 
-- Éléments nécessaires :
 
+
+- Éléments nécessaires :
+Fournis par l'artiste :
+- Les vidéos
+Fournis par l'intervenant :
+- 
 
 <hr>
 
