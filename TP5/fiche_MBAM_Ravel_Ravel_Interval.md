@@ -18,13 +18,15 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 
 - Nom de l'exposition : 
 - Lieu de mise en exposition : [Musée des Beaux-Arts de Montréal](https://www.mbam.qc.ca/en/)
+- Type d'expo : Temporaire intérieure
+- Date de visite : 04/04/2025
 <hr>
 
-- Type d'expo : Temporaire intérieure
-- Date de visite :
-- Titre de l'oeuvre choisie :
+- Titre de l'oeuvre choisie : Ravel Ravel Interval
 - Nom de l'artiste : Anri Sala
 - Année de réalisation : 2017
+<hr>
+
 - Description de l'oeuvre :
 - Description de l'oeuvre :
 - Type d'installation : immersive
