@@ -10,7 +10,7 @@ Grande, obsucre, apaisante
 - Liste d'oeuvres
 Oeuvres murales, écran central avec sièges
 - Oeuvre préférée
-
+Voyage vers l'horizon
 - Infos sur les oeuvres et le lieu d'exposition
 
 ### Présentation détaillée de l'oeuvre choisie
