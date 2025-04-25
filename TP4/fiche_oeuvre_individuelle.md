@@ -101,9 +101,9 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 *Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
 
 - Créé par : François Guinaudeau
-- Année de réalisation :
+- Année de réalisation : 2024
 
-Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. 
+Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. Le documentaire est filmé avec une caméra en prise de vue 360, ce qui le rend sphérique, le liant aux autres oeuvres. 
 
 
 <p align="center">
