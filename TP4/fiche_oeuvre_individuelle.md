@@ -100,30 +100,37 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 
 *Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
 
-- Créé par : François Guinaudeau
-- Année de réalisation : 2024
+### Créé par : François Guinaudeau
+### Année de réalisation : 2024
 
 Voyage vers l'horizon est une installation composée d'une courte vidéo projetée sur un mur, ainsi qu'un haut-parleur spécial en dôme placé près de la projection. En se plaçant en-dessous, le son de le projection est joué. La projection est un micro-documentaire sur un pêcheur et sa relation aux étoiles la nuit lorsqu'il est en mer. Le documentaire est filmé avec une caméra en prise de vue 360, ce qui le rend sphérique, le liant aux autres oeuvres. 
 
 ## Fiche technique
 
 
-- Type d'installation :
-- Fonction du dispositif :
-- Mise en espace :
+### Type d'installation :
+### Fonction du dispositif :
+### Mise en espace :
 
-- Composantes et techniques :
+### Composantes :
 
-- Éléments nécéssaires :
-
-- Ce qui m'a plu :
-
-- Ce qui peut être amélioré :
-
-![projecteur](./images/voyage_horizon_projecteur.jpg) | ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
+- ![projecteur](./images/voyage_horizon_projecteur.jpg) | ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Composantes techniques + essai de l'oeuvre - 06/03/2025*
+*Olivier Laliberté - Composantes + essai de l'oeuvre - 06/03/2025*
+
+L'oeuvre est composée d'un projecteur qui affiche une image sur un écran circulaire, ainsi qu'un haut-parleur spécial en forme de dôme.
+
+### Éléments nécéssaires :
+
+Fourni par les artistes : 
+- 
+
+### Ce qui m'a plu :
+
+### Ce qui peut être amélioré :
+
+
 
 ## Ressenti personnel
 J'ai beaucoup aimé Plancton Cosmique. Que se soit l'ambiance de la salle ou les installations, l'oeuvre arrivait très bien à passer son message et à exprimer ses points. L'expérience fut très enrichissante, et le sujet en soit m'intéressait énormément. <br>
