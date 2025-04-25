@@ -36,7 +36,11 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 - Expérience vécue : <br>
 En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les deux écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance du pianiste compositeur quant à sa perte de sa main. 
 
-- Ce qui m'a plu :
+- Ce qui m'a plu : <br>
+J'ai particulièrement aimé la bande sonore de l'oeuvre. Au début de la vidéo, la musique est douce et paisible. Par contre, plus la vidéo avance, plus la musique augmente en force et en cadence, en incluant d'autres instruments et en jouant plus fort. Cela me fait penser aux potentielles émotions que les artistes ont vécu lors de la composition du morceau musical, ou lors de son interprétation. On dirait qu'on arrive à ressentir cette colère et tristesse à travers l'oeuvre.
+
+- Ce que j'améliorerais : <br>
+Le fait que la salle n'ait pas beaucoup de bancs pour s'asseoir et écouter l'oeuvre m'a un peu déçu. J'aurais aimé pouvoir voir l'oeuvre dans plusieurs angles différents, puisque les écrans étaient minces et que l'on pouvait voir à travers. Aussi, le fait que je reste debout m'a un peu déconcentré de l'oeuvre. Pour une prochaine fois, je metterais plus de bancs et de places où les écrans se rencontrent, comme des coussins, par exemple.
 
 ## Sources
 
