@@ -32,6 +32,10 @@ L'oeuvre représente deux pianistes interprétant une musique composée par un p
 
 ### Mise en espace :
 
+<p align="center">
+  <img src="./images/mise_en_espace.jpg" width="800px"><br>
+  <i>Olivier Laliberté - Mise en espace</i>
+</p>
   
 ### Composantes :
 <p align="center">
