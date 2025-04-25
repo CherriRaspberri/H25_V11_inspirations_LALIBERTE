@@ -27,7 +27,9 @@ L'oeuvre est installée dans une salle sombre avec des panneaux absorbant le son
 - Année de réalisation : 2017
 <hr>
 
-- Description de l'oeuvre :
+- Description de l'oeuvre : <br>
+L'oeuvre est composée de deux écrans en son centre, avec des haut-parleurs accrochés au plafond qui font l'ensemble de la salle. Deux projecteurs sont utilisés pour afficher une vidéo sur ces écrans. Des panneaux bloquant le son sont accrochés tout le long des murs et au plafond.
+
 - Type d'installation : immersive
 - Mise en espace :
 - Composantes :
