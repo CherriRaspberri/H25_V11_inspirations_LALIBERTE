@@ -2,7 +2,7 @@
 <!--Image d'ensemble-->
 <p align="center">
   <img src="./images/img_biosphere_ensemble.jpg" width="600px"><br>
-  <i>Olivier Laliberté - Biosphère - 06/03/2025</i>
+  <i>Biosphère - Olivier Laliberté - 06/03/2025</i>
 </p>
 
 Le 6 mars dernier, j'ai eu la chance d'aller explorer la Biosphère, ce qui m'a permis d'aller voir l'exposition Plancton Cosmique. 
@@ -18,7 +18,7 @@ Avant d'entrer dans la salle d'exposition, de grandes bannières ornent la salle
 ![entrée](./images/bannieres_escaliers.jpg) | ![présence](./images/presence_oeuvre.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Bannières et Moi - 06/03/2025*
+*Bannières + Moi - Olivier Laliberté - 06/03/2025*
 
 ### La salle
 Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées sur les murs. De plus, des sièges et coussins sont installés en son centre, avec un grand écran projetant des images dans le fond de la salle. Des lumières illuminent les sièges et une atmosphère calme est présente.
@@ -27,7 +27,7 @@ Quand on entre dans la salle de l'exposition, plusieurs oeuvres sont exposées s
 ![entrée](./images/entree_salle.jpg) | ![salle](./images/salle_vue_ensemble.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Entrée et salle - 06/03/2025*
+*Entrée et salle - Olivier Laliberté - 06/03/2025*
 
 ## Les oeuvres
 <!-- Vue d'ensemble -> bullet list de toutes les installations -> ma preferee -->
@@ -40,7 +40,7 @@ La plupart des installations sont exposées sur les murs, projetées à l'aide d
 ![installation](./images/arrangement_diatomees_installation_suite.jpg) | ![fiche_presentation](./images/arrangement_diatomees_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Arrangement de diatomées + fiche de présentation - 06/03/2025*
+*Arrangement de diatomées + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : Jan Rosenboom
 
@@ -51,7 +51,7 @@ Arrangement de Diatomées est un ensemble de hublots regroupant des photos d'ét
 ![installation](./images/memoire_des_abysses_installation.jpg) | ![installation_suite](./images/memoire_des_abysses_installation_suite.jpg) | ![fiche_presentation](./images/memoire_des_abysses_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Mémoire des abysses + fiche de présentation - 06/03/2025*
+*Mémoire des abysses + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : Antonin Gaud
 
@@ -63,7 +63,7 @@ Mémoire des abysses est composé d'une installation principale ainsi qu'une ins
 ![installation](./images/ballet_des_planctons_installation.jpg) | ![fiche_presentation](./images/ballet_des_planctons_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Ballet du Plancton + fiche de présentation - 06/03/2025*
+*Ballet du Plancton + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : François Guinaudeau, Noé Sardet, Evantlas Chaudat
 
@@ -74,7 +74,7 @@ Ballet du Plancton est, selon moi, l'installation principale de l'exposition. É
 ![installation](./images/mandala_installation.jpg) | ![fiche_presentation](./images/mandala_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Mandala + fiche de présentation - 06/03/2025*
+*Mandala + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : Noé Sardet
 
@@ -85,7 +85,7 @@ Mandala est une installation visuelle qui montre un ensemble de planctons placé
 ![installation](./images/goutte_eau_installation.jpg) | ![installation](./images/circumpolaire_installation.jpg) | ![installation](./images/circumpolaire_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Une goutte d'océan + Circumpolaire + fiche de présentation - 06/03/2025*
+*Une goutte d'océan + Circumpolaire + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : François Guinaudeau, Noé Sardet
 
@@ -96,7 +96,7 @@ Une goutte d'océan et Circumpolaire est une installation qui contient deux affi
 ![installation](./images/voyage_horizon_installation.jpg) | ![fiche_presentation](./images/voyage_horizon_fiche_presentation.jpg)
 :-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Voyage vers l'horizon + fiche de présentation - 06/03/2025*
+*Voyage vers l'horizon + fiche de présentation - Olivier Laliberté - 06/03/2025*
 
 - Créé par : François Guinaudeau
 - Année de réalisation : 2024
@@ -112,7 +112,7 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 
 <p align="center">
   <img src="./images/mise_en_espace.jpg" width="600px"><br>
-  <i>Olivier Laliberté - Mise en espace</i>
+  <i>Mise en espace - Olivier Laliberté</i>
 </p>
 
 ### Composantes :
@@ -120,7 +120,7 @@ Voyage vers l'horizon est une installation composée d'une courte vidéo projet�
 ![projecteur](./images/voyage_horizon_projecteur.jpg) | ![haut-parleur](./images/voyage_horizon_haut_parleur.jpg) | ![Essai](./images/voyage_horizon_essai.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-*Olivier Laliberté - Composantes + essai de l'oeuvre - 06/03/2025*
+*Composantes + essai de l'oeuvre - Olivier Laliberté - 06/03/2025*
 
 L'oeuvre est composée d'un projecteur qui affiche une image sur un écran circulaire, ainsi qu'un haut-parleur spécial en forme de dôme.
 
@@ -156,5 +156,5 @@ Plancton Cosmique a été une expérience très enrichissante. L'équipe des mac
 ## Sources 
 <p align="center">
   <img src="./images/sources_vue_ensemble.jpg" width="600px"><br>
-  <i>Olivier Laliberté - Sources - 06/03/2025</i>
+  <i>Sources - Olivier Laliberté - 06/03/2025</i>
 </p>
