@@ -65,7 +65,7 @@ Fournis par l'intervenant :
 </p>
 
 ### Expérience vécue : 
-En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les deux écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 5 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance du pianiste compositeur quant à sa perte de sa main. 
+En entrant dans la pièce, l'ambiance m'a tout de suite choqué. Cette ambiance sombre et tamisée nous permet de focuser principalement sur les deux écrans, qui sont les seuls points illuminés de la salle. On ressent vraiment la puissance du piano, qui est entendu dans toute la pièce. La vidéo jouée durait 20 minutes, mais une fois terminée, on aurait cru qu'une seule minute s'est écoulée. La musique envoutante représente très bien son message, qui, personellement, pourrait dépeindre la souffrance du pianiste compositeur quant à sa perte de sa main. 
 
 ### Ce qui m'a plu : 
 J'ai particulièrement aimé la bande sonore de l'oeuvre. Au début de la vidéo, la musique est douce et paisible. Par contre, plus la vidéo avance, plus la musique augmente en force et en cadence, en incluant d'autres instruments et en jouant plus fort. Cela me fait penser aux potentielles émotions que les artistes ont vécu lors de la composition du morceau musical, ou lors de son interprétation. On dirait qu'on arrive à ressentir cette colère et tristesse à travers l'oeuvre.
