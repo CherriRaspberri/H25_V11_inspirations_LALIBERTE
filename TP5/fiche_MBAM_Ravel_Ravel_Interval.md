@@ -1,5 +1,10 @@
 # EXPOSITION MBAM : RAVEL RAVEL INTERVAL
 
+<p align="center">
+  <img src="./images/installation_vue_ensemble_suite.jpg" width="600px"><br>
+  <i>Olivier Laliberté - Ravel Ravel Interval (vue d'ensemble) - 04/04/2025</i>
+</p>
+
 ## Fiche technique
 
 - Nom de l'expo :
